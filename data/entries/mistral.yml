@@ -1,8 +1,0 @@
-name: Mistral
-url: https://github.com/mistralai/mistral-inference
-category: open-weight-models
-description: Reference inference code for Mistral open-weight models.
-license: Apache-2.0
-language: Python
-proprietary: false
-added: '2026-10-23'

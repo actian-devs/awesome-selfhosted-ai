@@ -1,6 +1,7 @@
 name: Phi
 url: https://huggingface.co/microsoft/phi-4
 category: open-weight-models
+kind: model
 description: Microsoft Phi open-weight small language models.
 proprietary: false
 added: '2026-10-23'

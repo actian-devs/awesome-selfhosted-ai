@@ -1,6 +1,7 @@
 name: LLM Datasets
 url: https://github.com/mlabonne/llm-datasets
 category: datasets-benchmarks
+kind: dataset
 description: Curated datasets and tools for LLM post-training.
 proprietary: false
 added: '2026-10-23'

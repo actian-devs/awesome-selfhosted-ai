@@ -1,6 +1,7 @@
 name: MLOps Community
 url: https://mlops.community/
 category: communities
+kind: community
 description: Practitioner community and events around MLOps.
 proprietary: false
 added: '2026-10-23'

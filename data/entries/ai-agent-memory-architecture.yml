@@ -1,6 +1,7 @@
 name: AI Agent Memory Architecture
 url: https://dev.to/actiandev/what-you-need-to-know-about-ai-agent-memory-architecture-49ek
 category: learning
+kind: learning
 description: Overview of agent memory architecture patterns.
 proprietary: false
 added: '2026-10-23'

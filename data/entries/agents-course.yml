@@ -1,6 +1,7 @@
 name: Agents Course
 url: https://github.com/huggingface/agents-course
 category: learning
+kind: learning
 description: Free Hugging Face course on building AI agents.
 license: Apache-2.0
 proprietary: false

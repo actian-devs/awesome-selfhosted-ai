@@ -1,6 +1,7 @@
 name: How to Measure RAG System Performance
 url: https://dev.to/actiandev/how-to-measure-rag-system-performance-1i1h
 category: learning
+kind: learning
 description: Guide to measuring retrieval and generation quality.
 proprietary: false
 added: '2026-10-23'

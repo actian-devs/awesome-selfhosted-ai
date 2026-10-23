@@ -39,12 +39,10 @@ The full stack for running AI on your own hardware: models, inference, embedding
 - [Mastra](https://github.com/mastra-ai/mastra) - TypeScript framework for AI agents and workflows.
 - [MCP servers](https://github.com/modelcontextprotocol/servers) - Reference Model Context Protocol server implementations.
 - [Mem0](https://github.com/mem0ai/mem0) - Memory layer for AI agents and apps.
-- [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Multi-agent framework that simulates a software company.
 - [Open Interpreter](https://github.com/openinterpreter/openinterpreter) - Natural-language interface for a local code interpreter.
 - [OpenHands](https://github.com/OpenHands/OpenHands) - Open platform for AI software development agents.
 - [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Agent framework built on Pydantic validation.
 - [smolagents](https://github.com/huggingface/smolagents) - Minimal code-writing agents from Hugging Face.
-- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - Dev-first open autonomous AI agent framework.
 
 ## Vector databases
 
@@ -69,7 +67,6 @@ The full stack for running AI on your own hardware: models, inference, embedding
 - [Dify](https://github.com/langgenius/dify) - Self-hostable platform for agentic workflows and RAG.
 - [Docling](https://github.com/docling-project/docling) - Convert PDFs and office documents for generative AI.
 - [DSPy](https://github.com/stanfordnlp/dspy) - Framework for programming, not prompting, LLM pipelines.
-- [Flowise](https://github.com/FlowiseAI/Flowise) - Drag-and-drop UI to build LLM flows.
 - [GraphRAG](https://github.com/microsoft/graphrag) - Graph-based retrieval-augmented generation from Microsoft.
 - [Haystack](https://github.com/deepset-ai/haystack) - Orchestration framework for RAG and agent pipelines.
 - [LangChain](https://github.com/langchain-ai/langchain) - Framework for building LLM applications and agents.
@@ -93,7 +90,6 @@ The full stack for running AI on your own hardware: models, inference, embedding
 - [Opik](https://github.com/comet-ml/opik) - Open-source platform for LLM tracing and evaluation.
 - [Phoenix](https://github.com/Arize-ai/phoenix) - Open-source AI observability and evaluation.
 - [promptfoo](https://github.com/promptfoo/promptfoo) - CLI for prompt testing, comparisons, and red-teaming.
-- [Ragas](https://github.com/vibrantlabsai/ragas) - Evaluation toolkit focused on RAG pipelines.
 - [TruLens](https://github.com/truera/trulens) - Evaluate and track LLM app quality with feedback functions.
 
 ## UIs
@@ -127,7 +123,6 @@ The full stack for running AI on your own hardware: models, inference, embedding
 ## Local runtimes
 
 - [candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust with GPU support.
-- [GPT4All](https://github.com/nomic-ai/gpt4all) - Run open-source LLMs locally with a desktop app.
 - [Jan](https://github.com/janhq/jan) - Desktop app that runs models fully offline.
 - [KoboldCpp](https://github.com/LostRuins/koboldcpp) - Single-file llama.cpp client with a built-in UI.
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp with an OpenAI-compatible API.
@@ -144,7 +139,6 @@ The full stack for running AI on your own hardware: models, inference, embedding
 
 - [BentoML](https://github.com/bentoml/BentoML) - Package and serve AI models as production APIs.
 - [CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models.
-- [Hugging Face TGI](https://github.com/huggingface/text-generation-inference) - Toolkit for deploying and serving LLMs.
 - [KTransformers](https://github.com/kvcache-ai/ktransformers) - CPU/GPU hybrid inference for large MoE models.
 - [LMDeploy](https://github.com/InternLM/lmdeploy) - Toolkit to compress, deploy, and serve LLMs.
 - [SGLang](https://github.com/sgl-project/sglang) - Fast serving framework for LLMs and vision-language models.
@@ -155,10 +149,7 @@ The full stack for running AI on your own hardware: models, inference, embedding
 
 ## Compute & GPUs
 
-- [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) - Easy Activation-aware Weight Quantization for LLMs.
-- [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - Easy-to-use LLM quantization with GPTQ.
 - [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - 8-bit and 4-bit optimizers and quantization for PyTorch.
-- [ExLlamaV2](https://github.com/turboderp-org/exllamav2) - Fast inference library for locally running LLMs on consumer GPUs.
 - [exo](https://github.com/exo-explore/exo) - Run frontier models across a cluster of everyday devices.
 - [ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning on CPUs and GPUs.
 - [NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Enable GPU access inside containers.
@@ -179,7 +170,6 @@ The full stack for running AI on your own hardware: models, inference, embedding
 - [OpenLLM](https://github.com/bentoml/OpenLLM) - Operate LLMs in production with an OpenAI-compatible API.
 - [Portkey Gateway](https://github.com/Portkey-AI/gateway) - Open-source AI gateway with guardrails.
 - [Ray Serve](https://github.com/ray-project/ray) - Scalable model serving library within Ray.
-- [Seldon Core](https://github.com/SeldonIO/seldon-core) - ML deployment on Kubernetes with explainers and monitors.
 - [SkyPilot](https://github.com/skypilot-org/skypilot) - Run AI workloads on any cloud or cluster.
 
 ## Learning
@@ -217,7 +207,6 @@ The full stack for running AI on your own hardware: models, inference, embedding
 
 - [Cloaked AI (IronCore Alloy)](https://github.com/IronCoreLabs/ironcore-alloy) - Encrypt embeddings while preserving vector search.
 - [Khoj](https://github.com/khoj-ai/khoj) - Self-hostable personal AI second brain.
-- [LLM Guard](https://github.com/protectai/llm-guard) - Security toolkit for sanitizing LLM prompts and outputs.
 - [localGPT](https://github.com/PromtEngineer/localGPT) - Chat with documents on your own device with no data leaving.
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - Programmable guardrails for LLM conversational systems.
 - [Presidio](https://github.com/data-privacy-stack/presidio) - Detect, redact, and anonymize PII in text and images.
@@ -232,7 +221,6 @@ The full stack for running AI on your own hardware: models, inference, embedding
 - [GLM-4](https://github.com/zai-org/GLM-4) - Zhipu AI open-weight bilingual model series.
 - [gpt-oss](https://github.com/openai/gpt-oss) - OpenAI open-weight models and reference code.
 - [Llama models](https://github.com/meta-llama/llama-models) - Meta Llama model cards and utilities.
-- [Mistral](https://github.com/mistralai/mistral-inference) - Reference inference code for Mistral open-weight models.
 - [Phi](https://huggingface.co/microsoft/phi-4) - Microsoft Phi open-weight small language models.
 - [Qwen3](https://github.com/QwenLM/Qwen3) - Alibaba open-weight large language model family.
 
@@ -242,7 +230,6 @@ The full stack for running AI on your own hardware: models, inference, embedding
 - [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - BGE embedding and reranker models.
 - [Infinity](https://github.com/michaelfeil/infinity) - High-throughput embedding and reranking server.
 - [Jina Embeddings](https://huggingface.co/jinaai/jina-embeddings-v3) - Multilingual embedding models from Jina AI.
-- [Nomic Embed](https://github.com/nomic-ai/nomic) - Open embedding models and atlas tooling from Nomic.
 - [Sentence Transformers](https://github.com/huggingface/sentence-transformers) - Library for computing and fine-tuning text embeddings.
 - [Text Embeddings Inference](https://github.com/huggingface/text-embeddings-inference) - Hugging Face server for embedding and reranker models.
 

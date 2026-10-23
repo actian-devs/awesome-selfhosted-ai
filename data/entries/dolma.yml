@@ -1,6 +1,7 @@
 name: Dolma
 url: https://github.com/allenai/dolma
 category: datasets-benchmarks
+kind: dataset
 description: AI2 open pretraining corpus and inspection toolkit.
 license: Apache-2.0
 language: Python

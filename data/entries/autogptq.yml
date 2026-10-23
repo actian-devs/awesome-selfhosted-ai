@@ -1,8 +1,0 @@
-name: AutoGPTQ
-url: https://github.com/AutoGPTQ/AutoGPTQ
-category: compute-gpus
-description: Easy-to-use LLM quantization with GPTQ.
-license: MIT
-language: Python
-proprietary: false
-added: '2026-10-23'

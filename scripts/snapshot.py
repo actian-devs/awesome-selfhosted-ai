@@ -21,7 +21,7 @@ import urllib.request
 from listdata import DATA, github_repo, load_entries
 
 API = "https://api.github.com"
-STALE_DAYS = 183  # CONTRIBUTING.md: at least one push in the last 6 months
+STALE_DAYS = 183  # CONTRIBUTING.md: software needs a push in the last 6 months
 
 
 def get(path):
@@ -79,7 +79,8 @@ def find_issues(entries, results, now):
         if gh["archived"]:
             issues["archived"].append((entry, ""))
         pushed = datetime.datetime.fromisoformat(gh["pushed_at"].replace("Z", "+00:00"))
-        if (now - pushed).days > STALE_DAYS:
+        # Models, datasets, courses, and communities do not need regular pushes.
+        if entry.get("kind", "software") == "software" and (now - pushed).days > STALE_DAYS:
             issues["stale"].append((entry, f"last push {pushed.date()}"))
         if gh["canonical_url"].rstrip("/") != entry["url"].rstrip("/"):
             issues["renamed"].append((entry, gh["canonical_url"]))
@@ -100,7 +101,7 @@ def report(week, issues, applied):
     labels = {
         "renamed": "Renamed or transferred" + (" (URLs updated in this PR)" if applied else ""),
         "archived": "Archived (consider removal under the removal policy)",
-        "stale": f"No push in {STALE_DAYS}+ days (consider removal under the removal policy)",
+        "stale": f"Software with no push in {STALE_DAYS}+ days (consider removal under the removal policy)",
         "missing": "Repository not found (check and fix or remove)",
     }
     if not any(issues.values()):

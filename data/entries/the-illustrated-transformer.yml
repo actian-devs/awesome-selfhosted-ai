@@ -1,6 +1,7 @@
 name: The Illustrated Transformer
 url: https://jalammar.github.io/illustrated-transformer/
 category: learning
+kind: learning
 description: Visual walkthrough of how the Transformer architecture works.
 proprietary: false
 added: '2026-10-23'

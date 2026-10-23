@@ -1,8 +1,0 @@
-name: SuperAGI
-url: https://github.com/TransformerOptimus/SuperAGI
-category: agents-memory
-description: Dev-first open autonomous AI agent framework.
-license: MIT
-language: Python
-proprietary: false
-added: '2026-10-23'

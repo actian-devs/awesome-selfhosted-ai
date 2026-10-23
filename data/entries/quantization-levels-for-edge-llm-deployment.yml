@@ -1,6 +1,7 @@
 name: Quantization Levels for Edge LLM Deployment
 url: https://www.actian.com/blog/developer/which-quantization-level-should-you-use-for-edge-llm-deployment/
 category: learning
+kind: learning
 description: Guidance on choosing quantization levels for edge LLMs.
 proprietary: false
 added: '2026-10-23'

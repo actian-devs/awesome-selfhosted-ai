@@ -1,6 +1,7 @@
 name: RedPajama-Data
 url: https://github.com/togethercomputer/RedPajama-Data
 category: datasets-benchmarks
+kind: dataset
 description: Code to prepare large datasets for LLM pretraining.
 license: Apache-2.0
 proprietary: false

@@ -1,8 +1,0 @@
-name: Ragas
-url: https://github.com/vibrantlabsai/ragas
-category: eval-observability
-description: Evaluation toolkit focused on RAG pipelines.
-license: Apache-2.0
-language: Python
-proprietary: false
-added: '2026-10-23'

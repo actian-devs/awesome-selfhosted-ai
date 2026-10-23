@@ -1,6 +1,7 @@
 name: Comparing Embedded Vector Databases
 url: https://www.actian.com/blog/developer/comparing-embedded-vector-databases/
 category: learning
+kind: learning
 description: Comparison of embedded vector database options for local stacks.
 proprietary: false
 added: '2026-10-23'

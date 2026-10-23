@@ -45,6 +45,15 @@ class SnapshotTest(unittest.TestCase):
     def test_stale(self):
         self.assertEqual(len(self.issues(gh(pushed_at="2026-01-01T00:00:00Z"))["stale"]), 1)
 
+    def test_non_software_is_never_stale(self):
+        for kind in ("model", "dataset", "learning", "community"):
+            self.entry["kind"] = kind
+            self.assertEqual(self.issues(gh(pushed_at="2023-01-01T00:00:00Z"))["stale"], [])
+
+    def test_archived_applies_to_every_kind(self):
+        self.entry["kind"] = "model"
+        self.assertEqual(len(self.issues(gh(archived=True))["archived"]), 1)
+
     def test_renamed(self):
         renamed = self.issues(gh(canonical_url="https://github.com/new-org/tool"))["renamed"]
         self.assertEqual(renamed[0][1], "https://github.com/new-org/tool")

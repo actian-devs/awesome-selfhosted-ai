@@ -1,6 +1,7 @@
 name: Generative AI for Beginners
 url: https://github.com/microsoft/generative-ai-for-beginners
 category: learning
+kind: learning
 description: Microsoft course of 21 lessons on building generative AI applications.
 license: MIT
 proprietary: false

@@ -1,6 +1,7 @@
 name: llm.c
 url: https://github.com/karpathy/llm.c
 category: learning
+kind: learning
 description: LLM training implemented in raw C and CUDA.
 license: MIT
 language: C

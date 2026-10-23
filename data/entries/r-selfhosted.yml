@@ -1,6 +1,7 @@
 name: r/selfhosted
 url: https://www.reddit.com/r/selfhosted/
 category: communities
+kind: community
 description: Community for running software on your own hardware.
 proprietary: false
 added: '2026-10-23'

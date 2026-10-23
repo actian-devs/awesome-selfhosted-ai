@@ -1,6 +1,7 @@
 name: Should You Use RAG or Fine-Tune
 url: https://www.actian.com/blog/databases/should-you-use-rag-or-fine-tune-your-llm/
 category: learning
+kind: learning
 description: Decision guide between RAG and fine-tuning.
 proprietary: false
 added: '2026-10-23'
