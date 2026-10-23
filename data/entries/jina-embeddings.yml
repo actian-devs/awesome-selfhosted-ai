@@ -1,6 +1,7 @@
 name: Jina Embeddings
 url: https://huggingface.co/jinaai/jina-embeddings-v3
 category: embeddings
+kind: model
 description: Multilingual embedding models from Jina AI.
 proprietary: false
 added: '2026-10-23'

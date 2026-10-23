@@ -1,6 +1,7 @@
 name: nanoGPT
 url: https://github.com/karpathy/nanoGPT
 category: learning
+kind: learning
 description: Minimal, fast repository for training medium-sized GPTs.
 license: MIT
 language: Python

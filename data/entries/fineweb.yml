@@ -1,6 +1,7 @@
 name: FineWeb
 url: https://huggingface.co/datasets/HuggingFaceFW/fineweb
 category: datasets-benchmarks
+kind: dataset
 description: Large cleaned web dataset for LLM pretraining.
 proprietary: false
 added: '2026-10-23'

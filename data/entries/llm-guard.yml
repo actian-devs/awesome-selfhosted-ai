@@ -1,8 +1,0 @@
-name: LLM Guard
-url: https://github.com/protectai/llm-guard
-category: privacy-offline
-description: Security toolkit for sanitizing LLM prompts and outputs.
-license: MIT
-language: Python
-proprietary: false
-added: '2026-10-23'

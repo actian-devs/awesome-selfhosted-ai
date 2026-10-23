@@ -1,8 +1,0 @@
-name: Flowise
-url: https://github.com/FlowiseAI/Flowise
-category: rag-orchestration
-description: Drag-and-drop UI to build LLM flows.
-license: Apache-2.0
-language: TypeScript
-proprietary: false
-added: '2026-10-23'

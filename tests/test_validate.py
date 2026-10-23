@@ -76,6 +76,10 @@ class ValidateTest(unittest.TestCase):
     def test_unknown_category(self):
         self.assertTrue(errors_for(entry(category="nope")))
 
+    def test_kind_must_be_known(self):
+        self.assertEqual(errors_for(entry(kind="model")), [])
+        self.assertTrue(errors_for(entry(kind="tool")))
+
     def test_unknown_field(self):
         self.assertTrue(errors_for(entry(stars=100)))
 

@@ -1,7 +1,0 @@
-name: Hugging Face TGI
-url: https://github.com/huggingface/text-generation-inference
-category: inference-servers
-description: Toolkit for deploying and serving LLMs.
-license: Apache-2.0
-proprietary: false
-added: '2026-10-23'

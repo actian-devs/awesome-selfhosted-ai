@@ -1,8 +1,0 @@
-name: Nomic Embed
-url: https://github.com/nomic-ai/nomic
-category: embeddings
-description: Open embedding models and atlas tooling from Nomic.
-license: Apache-2.0
-language: Python
-proprietary: false
-added: '2026-10-23'

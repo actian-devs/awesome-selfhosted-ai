@@ -1,6 +1,7 @@
 name: LLMs-from-scratch
 url: https://github.com/rasbt/LLMs-from-scratch
 category: learning
+kind: learning
 description: Build a GPT-style model in PyTorch step by step.
 proprietary: false
 added: '2026-10-23'

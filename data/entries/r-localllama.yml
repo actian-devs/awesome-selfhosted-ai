@@ -1,6 +1,7 @@
 name: r/LocalLLaMA
 url: https://www.reddit.com/r/LocalLLaMA/
 category: communities
+kind: community
 description: Largest community focused on local LLMs.
 proprietary: false
 added: '2026-10-23'

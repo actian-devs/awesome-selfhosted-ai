@@ -1,8 +1,0 @@
-name: MetaGPT
-url: https://github.com/FoundationAgents/MetaGPT
-category: agents-memory
-description: Multi-agent framework that simulates a software company.
-license: MIT
-language: Python
-proprietary: false
-added: '2026-10-23'

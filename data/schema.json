@@ -13,6 +13,10 @@
       "description": "Canonical project URL. No tracking, referral, or affiliate links."
     },
     "category": { "type": "string", "description": "An id from data/categories.yml." },
+    "kind": {
+      "enum": ["software", "model", "dataset", "learning", "community"],
+      "description": "Defaults to software. Only software must show a push in the last 6 months."
+    },
     "description": {
       "type": "string",
       "minLength": 10,

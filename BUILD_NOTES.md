@@ -3,25 +3,25 @@
 Built: 2026-10-23 (Africa/Lagos)
 Revised: 2026-10-23 after Henry's scaffold review
 
-**Total entries:** 179
+**Total entries:** 166
 
 ## Per category
 
-- Agents & memory: 20
+- Agents & memory: 18
 - Vector databases: 15
-- RAG & orchestration: 15
-- Eval & observability: 11
+- RAG & orchestration: 14
+- Eval & observability: 10
 - UIs: 11
 - Datasets & benchmarks: 11
-- Local runtimes: 13
-- Inference servers: 10
-- Compute & GPUs: 12
-- Deployment & infra: 11
+- Local runtimes: 12
+- Inference servers: 9
+- Compute & GPUs: 9
+- Deployment & infra: 10
 - Learning: 18
 - Communities: 7
-- Privacy & offline: 9
-- Open-weight models: 8
-- Embeddings: 7
+- Privacy & offline: 8
+- Open-weight models: 7
+- Embeddings: 6
 - Related: 1
 
 ## Dropped / fixed during URL verify
@@ -46,6 +46,15 @@ Revised: 2026-10-23 after Henry's scaffold review
 - Dropped trailing license/language tags (awesome-lint punctuation rule). `⊘ Proprietary` stays inside the sentence for VectorAI DB and LobeHub (LobeHub Community License is not open source).
 - Awesome badge moved onto the heading line (awesome-lint requirement).
 - lint.yml runs on pull requests only until the repo is 30 days old; links.yml uses lychee.toml, which excludes actian.com and reddit.com (403 to bots).
+
+## Pruned after first snapshot (2026-W43)
+
+Removed 13 entries that broke CONTRIBUTING.md rule 2:
+
+- Archived: AutoAWQ, AutoGPTQ, Flowise (wound down by its team; archived 2026-08-13), Hugging Face TGI (its README recommends vLLM and SGLang instead), LLM Guard, Mistral (mistral-inference).
+- Software with no push in 6+ months: ExLlamaV2, GPT4All, MetaGPT, Nomic Embed, Ragas, Seldon Core, SuperAGI.
+
+Added the `kind` field. Models, datasets, learning resources, and communities are exempt from the push rule, so DeepSeek-R1, Llama models, Qwen3, EleutherAI The Pile, BEIR, LLM Course, llm.c, and nanoGPT stay.
 
 ## Notes
 

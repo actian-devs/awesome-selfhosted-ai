@@ -1,8 +1,0 @@
-name: ExLlamaV2
-url: https://github.com/turboderp-org/exllamav2
-category: compute-gpus
-description: Fast inference library for locally running LLMs on consumer GPUs.
-license: MIT
-language: Python
-proprietary: false
-added: '2026-10-23'

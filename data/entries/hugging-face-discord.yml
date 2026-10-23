@@ -1,6 +1,7 @@
 name: Hugging Face Discord
 url: https://discord.com/invite/hugging-face-879548962464493619
 category: communities
+kind: community
 description: Community Discord for Hugging Face users and model builders.
 proprietary: false
 added: '2026-10-23'

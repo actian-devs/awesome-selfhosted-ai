@@ -1,6 +1,7 @@
 name: Hugging Face course
 url: https://github.com/huggingface/course
 category: learning
+kind: learning
 description: Free course on Transformers and modern NLP.
 license: Apache-2.0
 proprietary: false

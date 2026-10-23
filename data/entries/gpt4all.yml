@@ -1,7 +1,0 @@
-name: GPT4All
-url: https://github.com/nomic-ai/gpt4all
-category: local-runtimes
-description: Run open-source LLMs locally with a desktop app.
-license: MIT
-proprietary: false
-added: '2026-10-23'

@@ -1,6 +1,7 @@
 name: What Is a Vector Database
 url: https://www.youtube.com/watch?v=pesWa2wod0k
 category: learning
+kind: learning
 description: Plain-English introduction to vector databases.
 proprietary: false
 added: '2026-10-23'

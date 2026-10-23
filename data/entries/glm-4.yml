@@ -1,6 +1,7 @@
 name: GLM-4
 url: https://github.com/zai-org/GLM-4
 category: open-weight-models
+kind: model
 description: Zhipu AI open-weight bilingual model series.
 license: Apache-2.0
 proprietary: false

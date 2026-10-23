@@ -1,6 +1,7 @@
 name: EleutherAI The Pile
 url: https://github.com/EleutherAI/the-pile
 category: datasets-benchmarks
+kind: dataset
 description: Large open-source language modelling dataset.
 license: MIT
 proprietary: false

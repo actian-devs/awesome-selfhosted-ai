@@ -6,6 +6,7 @@
 name: Example DB
 url: https://github.com/example/example-db
 category: vector-databases          # an id from data/categories.yml
+kind: software                      # software (default), model, dataset, learning, community
 description: One factual sentence that ends with a period.
 proprietary: false                  # true if not open source; renders (`⊘ Proprietary`)
 added: '2026-10-23'

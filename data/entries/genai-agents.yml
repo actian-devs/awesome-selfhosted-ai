@@ -1,6 +1,7 @@
 name: GenAI Agents
 url: https://github.com/NirDiamant/GenAI_Agents
 category: learning
+kind: learning
 description: Notebook tutorials covering agent techniques from simple bots to multi-agent systems.
 proprietary: false
 added: '2026-10-23'

@@ -1,7 +1,0 @@
-name: Seldon Core
-url: https://github.com/SeldonIO/seldon-core
-category: deployment-infra
-description: ML deployment on Kubernetes with explainers and monitors.
-license: Apache-2.0
-proprietary: false
-added: '2026-10-23'

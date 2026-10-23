@@ -1,6 +1,7 @@
 name: What Is Agent Memory
 url: https://www.youtube.com/watch?v=lq9AVW87B-g
 category: learning
+kind: learning
 description: Video on agent memory architecture and deployment patterns.
 proprietary: false
 added: '2026-10-23'

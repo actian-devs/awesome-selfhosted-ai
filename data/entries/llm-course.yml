@@ -1,6 +1,7 @@
 name: LLM Course
 url: https://github.com/mlabonne/llm-course
 category: learning
+kind: learning
 description: Roadmaps and notebooks to learn large language models.
 license: Apache-2.0
 proprietary: false
