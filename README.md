@@ -34,6 +34,8 @@ The full stack for running AI on your own hardware: models, inference, embedding
 - [cognee](https://github.com/topoteretes/cognee) - Memory and knowledge engine for AI agents.
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Multi-agent orchestration with role-playing crews.
 - [Graphiti](https://github.com/getzep/graphiti) - Temporal knowledge graphs for agent memory.
+- [Kortix](https://selfhostedaiagents.com) - Open-source AI Operating System you run on your own server: agents, skills, memory and connector grants in one repo, with the operator's check scripts for the install.
+
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Stateful, graph-based agent workflows.
 - [Letta](https://github.com/letta-ai/letta) - Stateful agents with long-term memory.
 - [Mastra](https://github.com/mastra-ai/mastra) - TypeScript framework for AI agents and workflows.
