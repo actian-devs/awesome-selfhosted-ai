@@ -1,0 +1,2809 @@
+{
+  "week": "2026-W45",
+  "taken_at": "2026-11-02T13:56:25+00:00",
+  "entries": {
+    "actian-agent-memory-hub": {
+      "name": "Actian Agent Memory Hub",
+      "url": "https://github.com/actian-devs/agent-memory-hub",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/actian-devs/agent-memory-hub",
+        "stars": 41,
+        "forks": 6,
+        "open_issues": 1,
+        "pushed_at": "2026-10-09T17:23:49Z",
+        "archived": false,
+        "license": null,
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 2
+      }
+    },
+    "actian-vectorai-db": {
+      "name": "Actian VectorAI DB",
+      "url": "https://www.actian.com/databases/vectorai-db/",
+      "category": "vector-databases"
+    },
+    "agents-course": {
+      "name": "Agents Course",
+      "url": "https://github.com/huggingface/agents-course",
+      "category": "learning",
+      "github": {
+        "canonical_url": "https://github.com/huggingface/agents-course",
+        "stars": 34340,
+        "forks": 2459,
+        "open_issues": 189,
+        "pushed_at": "2026-10-14T11:34:52Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 195
+      }
+    },
+    "agno": {
+      "name": "Agno",
+      "url": "https://github.com/agno-agi/agno",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/agno-agi/agno",
+        "stars": 43015,
+        "forks": 6227,
+        "open_issues": 1955,
+        "pushed_at": "2026-11-02T12:45:16Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v3.1.12",
+        "latest_release_at": "2026-10-29T14:00:55Z",
+        "contributors": 624
+      }
+    },
+    "ai-agent-memory-architecture": {
+      "name": "AI Agent Memory Architecture",
+      "url": "https://dev.to/actiandev/what-you-need-to-know-about-ai-agent-memory-architecture-49ek",
+      "category": "learning"
+    },
+    "aider": {
+      "name": "Aider",
+      "url": "https://github.com/Aider-AI/aider",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/Aider-AI/aider",
+        "stars": 49901,
+        "forks": 5126,
+        "open_issues": 1941,
+        "pushed_at": "2026-05-22T14:02:20Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.86.0",
+        "latest_release_at": "2025-08-09T17:42:19Z",
+        "contributors": 182
+      }
+    },
+    "ann-benchmarks": {
+      "name": "ANN-Benchmarks",
+      "url": "https://github.com/erikbern/ann-benchmarks",
+      "category": "datasets-benchmarks",
+      "github": {
+        "canonical_url": "https://github.com/erikbern/ann-benchmarks",
+        "stars": 5746,
+        "forks": 908,
+        "open_issues": 131,
+        "pushed_at": "2026-07-10T08:44:55Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 113
+      }
+    },
+    "anythingllm": {
+      "name": "AnythingLLM",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "category": "uis",
+      "github": {
+        "canonical_url": "https://github.com/Mintplex-Labs/anything-llm",
+        "stars": 67849,
+        "forks": 7654,
+        "open_issues": 363,
+        "pushed_at": "2026-10-30T23:50:45Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v1.19.0",
+        "latest_release_at": "2026-10-26T16:14:51Z",
+        "contributors": 284
+      }
+    },
+    "autoawq": {
+      "name": "AutoAWQ",
+      "url": "https://github.com/casper-hansen/AutoAWQ",
+      "category": "compute-gpus",
+      "github": {
+        "canonical_url": "https://github.com/casper-hansen/AutoAWQ",
+        "stars": 2344,
+        "forks": 312,
+        "open_issues": 202,
+        "pushed_at": "2025-05-11T08:52:59Z",
+        "archived": true,
+        "license": "MIT",
+        "latest_release": "v0.2.9",
+        "latest_release_at": "2025-05-11T08:53:09Z",
+        "contributors": 57
+      }
+    },
+    "autogen": {
+      "name": "AutoGen",
+      "url": "https://github.com/microsoft/autogen",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/microsoft/autogen",
+        "stars": 61677,
+        "forks": 9348,
+        "open_issues": 1130,
+        "pushed_at": "2026-10-28T14:45:27Z",
+        "archived": false,
+        "license": "CC-BY-4.0",
+        "latest_release": "python-v0.7.5",
+        "latest_release_at": "2025-09-30T06:18:26Z",
+        "contributors": 536
+      }
+    },
+    "autogptq": {
+      "name": "AutoGPTQ",
+      "url": "https://github.com/AutoGPTQ/AutoGPTQ",
+      "category": "compute-gpus",
+      "github": {
+        "canonical_url": "https://github.com/AutoGPTQ/AutoGPTQ",
+        "stars": 5068,
+        "forks": 547,
+        "open_issues": 272,
+        "pushed_at": "2025-04-11T13:27:20Z",
+        "archived": true,
+        "license": "MIT",
+        "latest_release": "v0.7.1",
+        "latest_release_at": "2024-03-01T13:14:57Z",
+        "contributors": 50
+      }
+    },
+    "beir": {
+      "name": "BEIR",
+      "url": "https://github.com/beir-cellar/beir",
+      "category": "datasets-benchmarks",
+      "github": {
+        "canonical_url": "https://github.com/beir-cellar/beir",
+        "stars": 2328,
+        "forks": 256,
+        "open_issues": 88,
+        "pushed_at": "2025-10-16T06:38:03Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v2.2.0",
+        "latest_release_at": "2025-06-04T18:42:18Z",
+        "contributors": 18
+      }
+    },
+    "bentoml": {
+      "name": "BentoML",
+      "url": "https://github.com/bentoml/BentoML",
+      "category": "inference-servers",
+      "github": {
+        "canonical_url": "https://github.com/bentoml/BentoML",
+        "stars": 8933,
+        "forks": 1054,
+        "open_issues": 252,
+        "pushed_at": "2026-10-29T11:04:15Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.4.40",
+        "latest_release_at": "2026-10-23T19:51:33Z",
+        "contributors": 240
+      }
+    },
+    "big-agi": {
+      "name": "Big-AGI",
+      "url": "https://github.com/enricoros/big-AGI",
+      "category": "uis",
+      "github": {
+        "canonical_url": "https://github.com/enricoros/big-AGI",
+        "stars": 7163,
+        "forks": 1596,
+        "open_issues": 187,
+        "pushed_at": "2026-11-02T09:52:23Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v2.1.3",
+        "latest_release_at": "2026-10-27T07:06:36Z",
+        "contributors": 68
+      }
+    },
+    "bitsandbytes": {
+      "name": "bitsandbytes",
+      "url": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+      "category": "compute-gpus",
+      "github": {
+        "canonical_url": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+        "stars": 8535,
+        "forks": 941,
+        "open_issues": 116,
+        "pushed_at": "2026-10-27T21:28:24Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "0.50.2",
+        "latest_release_at": "2026-08-27T00:13:56Z",
+        "contributors": 140
+      }
+    },
+    "browser-use": {
+      "name": "Browser Use",
+      "url": "https://github.com/browser-use/browser-use",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/browser-use/browser-use",
+        "stars": 119823,
+        "forks": 13356,
+        "open_issues": 618,
+        "pushed_at": "2026-11-02T01:31:56Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "0.13.14",
+        "latest_release_at": "2026-10-26T22:00:34Z",
+        "contributors": 384
+      }
+    },
+    "camel": {
+      "name": "CAMEL",
+      "url": "https://github.com/camel-ai/camel",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/camel-ai/camel",
+        "stars": 18007,
+        "forks": 2134,
+        "open_issues": 561,
+        "pushed_at": "2026-11-02T10:15:02Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.2.90",
+        "latest_release_at": "2026-03-22T08:37:36Z",
+        "contributors": 238
+      }
+    },
+    "candle": {
+      "name": "candle",
+      "url": "https://github.com/huggingface/candle",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/huggingface/candle",
+        "stars": 21266,
+        "forks": 1844,
+        "open_issues": 958,
+        "pushed_at": "2026-11-02T12:05:47Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 296
+      }
+    },
+    "chroma": {
+      "name": "Chroma",
+      "url": "https://github.com/chroma-core/chroma",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/chroma-core/chroma",
+        "stars": 29623,
+        "forks": 2605,
+        "open_issues": 977,
+        "pushed_at": "2026-10-30T21:09:26Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "1.5.9",
+        "latest_release_at": "2026-05-05T05:55:40Z",
+        "contributors": 197
+      }
+    },
+    "cloaked-ai-ironcore-alloy": {
+      "name": "Cloaked AI (IronCore Alloy)",
+      "url": "https://github.com/IronCoreLabs/ironcore-alloy",
+      "category": "privacy-offline",
+      "github": {
+        "canonical_url": "https://github.com/IronCoreLabs/ironcore-alloy",
+        "stars": 32,
+        "forks": 6,
+        "open_issues": 16,
+        "pushed_at": "2026-11-01T21:53:49Z",
+        "archived": false,
+        "license": "AGPL-3.0",
+        "latest_release": "0.16.2",
+        "latest_release_at": "2026-10-27T19:21:29Z",
+        "contributors": 11
+      }
+    },
+    "cognee": {
+      "name": "cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/topoteretes/cognee",
+        "stars": 33002,
+        "forks": 3446,
+        "open_issues": 1076,
+        "pushed_at": "2026-11-02T13:50:31Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.6.6",
+        "latest_release_at": "2026-10-29T21:33:43Z",
+        "contributors": 333
+      }
+    },
+    "comfyui": {
+      "name": "ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "category": "uis",
+      "github": {
+        "canonical_url": "https://github.com/Comfy-Org/ComfyUI",
+        "stars": 144598,
+        "forks": 17234,
+        "open_issues": 5413,
+        "pushed_at": "2026-11-02T13:45:50Z",
+        "archived": false,
+        "license": "GPL-3.0",
+        "latest_release": "v0.43.0",
+        "latest_release_at": "2026-10-27T02:40:46Z",
+        "contributors": 361
+      }
+    },
+    "comparing-embedded-vector-databases": {
+      "name": "Comparing Embedded Vector Databases",
+      "url": "https://www.actian.com/blog/developer/comparing-embedded-vector-databases/",
+      "category": "learning"
+    },
+    "continue": {
+      "name": "Continue",
+      "url": "https://github.com/continuedev/continue",
+      "category": "uis",
+      "github": {
+        "canonical_url": "https://github.com/continuedev/continue",
+        "stars": 36401,
+        "forks": 5543,
+        "open_issues": 867,
+        "pushed_at": "2026-11-02T12:11:19Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v2.0.0-vscode",
+        "latest_release_at": "2026-06-19T00:24:01Z",
+        "contributors": 507
+      }
+    },
+    "crewai": {
+      "name": "CrewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/crewAIInc/crewAI",
+        "stars": 60420,
+        "forks": 8999,
+        "open_issues": 991,
+        "pushed_at": "2026-11-02T10:15:05Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "1.15.34",
+        "latest_release_at": "2026-11-01T21:21:56Z",
+        "contributors": 367
+      }
+    },
+    "ctranslate2": {
+      "name": "CTranslate2",
+      "url": "https://github.com/OpenNMT/CTranslate2",
+      "category": "inference-servers",
+      "github": {
+        "canonical_url": "https://github.com/OpenNMT/CTranslate2",
+        "stars": 4729,
+        "forks": 552,
+        "open_issues": 275,
+        "pushed_at": "2026-11-02T10:52:07Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v4.8.4",
+        "latest_release_at": "2026-10-25T19:04:59Z",
+        "contributors": 81
+      }
+    },
+    "datasets": {
+      "name": "Datasets",
+      "url": "https://github.com/huggingface/datasets",
+      "category": "datasets-benchmarks",
+      "github": {
+        "canonical_url": "https://github.com/huggingface/datasets",
+        "stars": 22104,
+        "forks": 3593,
+        "open_issues": 1575,
+        "pushed_at": "2026-10-30T14:50:40Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "5.1.0",
+        "latest_release_at": "2026-10-05T15:39:37Z",
+        "contributors": 733
+      }
+    },
+    "deepeval": {
+      "name": "DeepEval",
+      "url": "https://github.com/confident-ai/deepeval",
+      "category": "eval-observability",
+      "github": {
+        "canonical_url": "https://github.com/confident-ai/deepeval",
+        "stars": 19249,
+        "forks": 2163,
+        "open_issues": 817,
+        "pushed_at": "2026-11-02T12:02:14Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "python-v4.2.4",
+        "latest_release_at": "2026-09-22T16:36:00Z",
+        "contributors": 338
+      }
+    },
+    "deepseek-r1": {
+      "name": "DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "category": "open-weight-models",
+      "github": {
+        "canonical_url": "https://github.com/deepseek-ai/DeepSeek-R1",
+        "stars": 91995,
+        "forks": 11669,
+        "open_issues": 45,
+        "pushed_at": "2025-06-27T08:35:54Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v1.0.0",
+        "latest_release_at": "2025-06-27T08:39:13Z",
+        "contributors": 12
+      }
+    },
+    "dify": {
+      "name": "Dify",
+      "url": "https://github.com/langgenius/dify",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/langgenius/dify",
+        "stars": 160231,
+        "forks": 25329,
+        "open_issues": 1222,
+        "pushed_at": "2026-11-02T12:54:20Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "1.18.0",
+        "latest_release_at": "2026-10-23T06:33:50Z",
+        "contributors": 1596
+      }
+    },
+    "docling": {
+      "name": "Docling",
+      "url": "https://github.com/docling-project/docling",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/docling-project/docling",
+        "stars": 70008,
+        "forks": 5249,
+        "open_issues": 937,
+        "pushed_at": "2026-11-01T12:35:00Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v2.145.0",
+        "latest_release_at": "2026-10-29T14:40:25Z",
+        "contributors": 403
+      }
+    },
+    "dolma": {
+      "name": "Dolma",
+      "url": "https://github.com/allenai/dolma",
+      "category": "datasets-benchmarks",
+      "github": {
+        "canonical_url": "https://github.com/allenai/dolma",
+        "stars": 1562,
+        "forks": 206,
+        "open_issues": 30,
+        "pushed_at": "2026-08-24T23:21:57Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.2.1",
+        "latest_release_at": "2025-07-07T15:47:20Z",
+        "contributors": 29
+      }
+    },
+    "dspy": {
+      "name": "DSPy",
+      "url": "https://github.com/stanfordnlp/dspy",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/stanfordnlp/dspy",
+        "stars": 38885,
+        "forks": 3475,
+        "open_issues": 751,
+        "pushed_at": "2026-11-01T14:28:30Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "3.4.1",
+        "latest_release_at": "2026-10-12T23:12:32Z",
+        "contributors": 481
+      }
+    },
+    "elasticsearch": {
+      "name": "Elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/elastic/elasticsearch",
+        "stars": 78458,
+        "forks": 26236,
+        "open_issues": 6252,
+        "pushed_at": "2026-11-02T13:55:00Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v9.5.6",
+        "latest_release_at": "2026-11-02T13:55:02Z",
+        "contributors": 2568
+      }
+    },
+    "eleutherai-the-pile": {
+      "name": "EleutherAI The Pile",
+      "url": "https://github.com/EleutherAI/the-pile",
+      "category": "datasets-benchmarks",
+      "github": {
+        "canonical_url": "https://github.com/EleutherAI/the-pile",
+        "stars": 1679,
+        "forks": 148,
+        "open_issues": 28,
+        "pushed_at": "2023-04-27T21:00:48Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 7
+      }
+    },
+    "exllamav2": {
+      "name": "ExLlamaV2",
+      "url": "https://github.com/turboderp-org/exllamav2",
+      "category": "compute-gpus",
+      "github": {
+        "canonical_url": "https://github.com/turboderp-org/exllamav2",
+        "stars": 4649,
+        "forks": 348,
+        "open_issues": 162,
+        "pushed_at": "2026-03-04T13:12:20Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v0.3.2",
+        "latest_release_at": "2025-07-13T22:14:34Z",
+        "contributors": 57
+      }
+    },
+    "exo": {
+      "name": "exo",
+      "url": "https://github.com/exo-explore/exo",
+      "category": "compute-gpus",
+      "github": {
+        "canonical_url": "https://github.com/exo-explore/exo",
+        "stars": 48151,
+        "forks": 3591,
+        "open_issues": 456,
+        "pushed_at": "2026-11-02T08:33:41Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.0.71",
+        "latest_release_at": "2026-04-23T15:04:10Z",
+        "contributors": 107
+      }
+    },
+    "faiss": {
+      "name": "Faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/facebookresearch/faiss",
+        "stars": 41250,
+        "forks": 4584,
+        "open_issues": 368,
+        "pushed_at": "2026-11-01T23:29:51Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v1.15.1",
+        "latest_release_at": "2026-09-16T19:24:02Z",
+        "contributors": 369
+      }
+    },
+    "fastembed": {
+      "name": "FastEmbed",
+      "url": "https://github.com/qdrant/fastembed",
+      "category": "embeddings",
+      "github": {
+        "canonical_url": "https://github.com/qdrant/fastembed",
+        "stars": 3275,
+        "forks": 292,
+        "open_issues": 99,
+        "pushed_at": "2026-10-28T19:08:40Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.9.1",
+        "latest_release_at": "2026-10-24T18:32:20Z",
+        "contributors": 60
+      }
+    },
+    "fineweb": {
+      "name": "FineWeb",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
+      "category": "datasets-benchmarks"
+    },
+    "flagembedding": {
+      "name": "FlagEmbedding",
+      "url": "https://github.com/FlagOpen/FlagEmbedding",
+      "category": "embeddings",
+      "github": {
+        "canonical_url": "https://github.com/FlagOpen/FlagEmbedding",
+        "stars": 12291,
+        "forks": 945,
+        "open_issues": 929,
+        "pushed_at": "2026-10-27T09:50:16Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v1.4.2",
+        "latest_release_at": "2026-08-24T02:55:16Z",
+        "contributors": 72
+      }
+    },
+    "flowise": {
+      "name": "Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/FlowiseAI/Flowise",
+        "stars": 55543,
+        "forks": 25089,
+        "open_issues": 1041,
+        "pushed_at": "2026-08-13T12:38:19Z",
+        "archived": true,
+        "license": "NOASSERTION",
+        "latest_release": "flowise@3.1.4",
+        "latest_release_at": "2026-07-29T15:51:25Z",
+        "contributors": 332
+      }
+    },
+    "gemma": {
+      "name": "Gemma",
+      "url": "https://github.com/google-deepmind/gemma",
+      "category": "open-weight-models",
+      "github": {
+        "canonical_url": "https://github.com/google-deepmind/gemma",
+        "stars": 5828,
+        "forks": 1034,
+        "open_issues": 337,
+        "pushed_at": "2026-10-28T02:38:40Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v4.0.1",
+        "latest_release_at": "2026-05-20T15:37:55Z",
+        "contributors": 45
+      }
+    },
+    "genai-agents": {
+      "name": "GenAI Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "category": "learning",
+      "github": {
+        "canonical_url": "https://github.com/NirDiamant/GenAI_Agents",
+        "stars": 24801,
+        "forks": 4167,
+        "open_issues": 21,
+        "pushed_at": "2026-11-02T00:45:58Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "book-v1.0",
+        "latest_release_at": "2026-10-26T13:00:21Z",
+        "contributors": 54
+      }
+    },
+    "generative-ai-for-beginners": {
+      "name": "Generative AI for Beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "category": "learning",
+      "github": {
+        "canonical_url": "https://github.com/microsoft/generative-ai-for-beginners",
+        "stars": 122833,
+        "forks": 65715,
+        "open_issues": 5,
+        "pushed_at": "2026-11-02T12:45:41Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 164
+      }
+    },
+    "ggml": {
+      "name": "ggml",
+      "url": "https://github.com/ggml-org/ggml",
+      "category": "compute-gpus",
+      "github": {
+        "canonical_url": "https://github.com/ggml-org/ggml",
+        "stars": 15575,
+        "forks": 1907,
+        "open_issues": 382,
+        "pushed_at": "2026-10-28T10:32:37Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v0.28.0",
+        "latest_release_at": "2026-10-28T10:32:39Z",
+        "contributors": 886
+      }
+    },
+    "giskard": {
+      "name": "Giskard",
+      "url": "https://github.com/Giskard-AI/giskard-oss",
+      "category": "eval-observability",
+      "github": {
+        "canonical_url": "https://github.com/Giskard-AI/giskard-oss",
+        "stars": 5940,
+        "forks": 559,
+        "open_issues": 76,
+        "pushed_at": "2026-11-02T07:34:45Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "giskard-agents/v1.0.6",
+        "latest_release_at": "2026-10-25T07:34:52Z",
+        "contributors": 94
+      }
+    },
+    "glm-4": {
+      "name": "GLM-4",
+      "url": "https://github.com/zai-org/GLM-4",
+      "category": "open-weight-models",
+      "github": {
+        "canonical_url": "https://github.com/zai-org/GLM-4",
+        "stars": 7074,
+        "forks": 622,
+        "open_issues": 45,
+        "pushed_at": "2026-08-05T07:08:46Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 30
+      }
+    },
+    "gpt-oss": {
+      "name": "gpt-oss",
+      "url": "https://github.com/openai/gpt-oss",
+      "category": "open-weight-models",
+      "github": {
+        "canonical_url": "https://github.com/openai/gpt-oss",
+        "stars": 20511,
+        "forks": 2190,
+        "open_issues": 171,
+        "pushed_at": "2026-10-29T16:42:13Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.0.9",
+        "latest_release_at": "2026-01-13T19:03:30Z",
+        "contributors": 65
+      }
+    },
+    "gpt4all": {
+      "name": "GPT4All",
+      "url": "https://github.com/nomic-ai/gpt4all",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/nomic-ai/gpt4all",
+        "stars": 77347,
+        "forks": 8260,
+        "open_issues": 776,
+        "pushed_at": "2025-05-27T20:05:19Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v3.10.0",
+        "latest_release_at": "2025-02-25T00:41:39Z",
+        "contributors": 122
+      }
+    },
+    "gpustack": {
+      "name": "GPUStack",
+      "url": "https://github.com/gpustack/gpustack",
+      "category": "deployment-infra",
+      "github": {
+        "canonical_url": "https://github.com/gpustack/gpustack",
+        "stars": 5948,
+        "forks": 708,
+        "open_issues": 731,
+        "pushed_at": "2026-11-02T09:51:25Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v2.3.0",
+        "latest_release_at": "2026-10-23T10:02:38Z",
+        "contributors": 70
+      }
+    },
+    "graphiti": {
+      "name": "Graphiti",
+      "url": "https://github.com/getzep/graphiti",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/getzep/graphiti",
+        "stars": 32441,
+        "forks": 3330,
+        "open_issues": 539,
+        "pushed_at": "2026-11-01T01:05:00Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.31.2",
+        "latest_release_at": "2026-10-20T17:25:21Z",
+        "contributors": 64
+      }
+    },
+    "graphrag": {
+      "name": "GraphRAG",
+      "url": "https://github.com/microsoft/graphrag",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/microsoft/graphrag",
+        "stars": 36529,
+        "forks": 3868,
+        "open_issues": 61,
+        "pushed_at": "2026-11-02T07:24:01Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v3.3.0",
+        "latest_release_at": "2026-10-08T18:28:43Z",
+        "contributors": 51
+      }
+    },
+    "haystack": {
+      "name": "Haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/deepset-ai/haystack",
+        "stars": 26911,
+        "forks": 3384,
+        "open_issues": 215,
+        "pushed_at": "2026-11-02T13:40:42Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v3.4.1",
+        "latest_release_at": "2026-10-21T19:10:58Z",
+        "contributors": 525
+      }
+    },
+    "helicone": {
+      "name": "Helicone",
+      "url": "https://github.com/Helicone/helicone",
+      "category": "eval-observability",
+      "github": {
+        "canonical_url": "https://github.com/Helicone/helicone",
+        "stars": 6252,
+        "forks": 702,
+        "open_issues": 183,
+        "pushed_at": "2026-10-28T15:59:52Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v2025.08.21-1",
+        "latest_release_at": "2025-08-21T18:47:38Z",
+        "contributors": 103
+      }
+    },
+    "how-to-evaluate-vector-databases": {
+      "name": "How to Evaluate Vector Databases",
+      "url": "https://www.actian.com/blog/databases/how-to-evaluate-vector-databases-in-2026/",
+      "category": "learning"
+    },
+    "how-to-measure-rag-system-performance": {
+      "name": "How to Measure RAG System Performance",
+      "url": "https://dev.to/actiandev/how-to-measure-rag-system-performance-1i1h",
+      "category": "learning"
+    },
+    "hugging-face-course": {
+      "name": "Hugging Face course",
+      "url": "https://github.com/huggingface/course",
+      "category": "learning",
+      "github": {
+        "canonical_url": "https://github.com/huggingface/course",
+        "stars": 4341,
+        "forks": 1463,
+        "open_issues": 561,
+        "pushed_at": "2026-10-06T09:20:14Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 229
+      }
+    },
+    "hugging-face-discord": {
+      "name": "Hugging Face Discord",
+      "url": "https://discord.com/invite/hugging-face-879548962464493619",
+      "category": "communities"
+    },
+    "hugging-face-forums": {
+      "name": "Hugging Face Forums",
+      "url": "https://discuss.huggingface.co/",
+      "category": "communities"
+    },
+    "hugging-face-tgi": {
+      "name": "Hugging Face TGI",
+      "url": "https://github.com/huggingface/text-generation-inference",
+      "category": "inference-servers",
+      "github": {
+        "canonical_url": "https://github.com/huggingface/text-generation-inference",
+        "stars": 10883,
+        "forks": 1288,
+        "open_issues": 324,
+        "pushed_at": "2026-03-21T11:34:22Z",
+        "archived": true,
+        "license": "Apache-2.0",
+        "latest_release": "v3.3.7",
+        "latest_release_at": "2025-12-19T14:35:25Z",
+        "contributors": 148
+      }
+    },
+    "infinity": {
+      "name": "Infinity",
+      "url": "https://github.com/michaelfeil/infinity",
+      "category": "embeddings",
+      "github": {
+        "canonical_url": "https://github.com/michaelfeil/infinity",
+        "stars": 2981,
+        "forks": 220,
+        "open_issues": 161,
+        "pushed_at": "2026-11-02T13:55:27Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v3.0.0",
+        "latest_release_at": "2026-10-26T03:02:21Z",
+        "contributors": 38
+      }
+    },
+    "jan": {
+      "name": "Jan",
+      "url": "https://github.com/janhq/jan",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/janhq/jan",
+        "stars": 45322,
+        "forks": 3131,
+        "open_issues": 573,
+        "pushed_at": "2026-11-02T13:56:20Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v0.8.8",
+        "latest_release_at": "2026-10-28T03:31:54Z",
+        "contributors": 189
+      }
+    },
+    "jina-embeddings": {
+      "name": "Jina Embeddings",
+      "url": "https://huggingface.co/jinaai/jina-embeddings-v3",
+      "category": "embeddings"
+    },
+    "khoj": {
+      "name": "Khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "category": "privacy-offline",
+      "github": {
+        "canonical_url": "https://github.com/khoj-ai/khoj",
+        "stars": 37942,
+        "forks": 2529,
+        "open_issues": 170,
+        "pushed_at": "2026-08-02T01:55:40Z",
+        "archived": false,
+        "license": "AGPL-3.0",
+        "latest_release": "2.0.0-beta.28",
+        "latest_release_at": "2026-03-26T03:36:04Z",
+        "contributors": 76
+      }
+    },
+    "koboldcpp": {
+      "name": "KoboldCpp",
+      "url": "https://github.com/LostRuins/koboldcpp",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/LostRuins/koboldcpp",
+        "stars": 12133,
+        "forks": 806,
+        "open_issues": 538,
+        "pushed_at": "2026-11-02T10:29:04Z",
+        "archived": false,
+        "license": "AGPL-3.0",
+        "latest_release": "v1.124.2",
+        "latest_release_at": "2026-10-31T04:51:16Z",
+        "contributors": 2261
+      }
+    },
+    "kserve": {
+      "name": "KServe",
+      "url": "https://github.com/kserve/kserve",
+      "category": "deployment-infra",
+      "github": {
+        "canonical_url": "https://github.com/kserve/kserve",
+        "stars": 6182,
+        "forks": 1774,
+        "open_issues": 259,
+        "pushed_at": "2026-10-31T01:35:15Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.21.0",
+        "latest_release_at": "2026-09-25T17:04:20Z",
+        "contributors": 399
+      }
+    },
+    "ktransformers": {
+      "name": "KTransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "category": "inference-servers",
+      "github": {
+        "canonical_url": "https://github.com/kvcache-ai/ktransformers",
+        "stars": 19653,
+        "forks": 1600,
+        "open_issues": 525,
+        "pushed_at": "2026-10-28T06:08:08Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.7.2",
+        "latest_release_at": "2026-10-15T07:09:13Z",
+        "contributors": 133
+      }
+    },
+    "kuberay": {
+      "name": "KubeRay",
+      "url": "https://github.com/kuberay-project/kuberay",
+      "category": "deployment-infra",
+      "github": {
+        "canonical_url": "https://github.com/kuberay-project/kuberay",
+        "stars": 2755,
+        "forks": 901,
+        "open_issues": 738,
+        "pushed_at": "2026-11-02T05:55:19Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.7.1",
+        "latest_release_at": "2026-09-21T06:42:58Z",
+        "contributors": 287
+      }
+    },
+    "lancedb": {
+      "name": "LanceDB",
+      "url": "https://github.com/lancedb/lancedb",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/lancedb/lancedb",
+        "stars": 11830,
+        "forks": 1150,
+        "open_issues": 613,
+        "pushed_at": "2026-11-02T13:50:35Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.41.0",
+        "latest_release_at": "2026-10-29T08:08:17Z",
+        "contributors": 306
+      }
+    },
+    "langchain": {
+      "name": "LangChain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/langchain-ai/langchain",
+        "stars": 148880,
+        "forks": 25030,
+        "open_issues": 710,
+        "pushed_at": "2026-11-02T08:20:13Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "langchain-core==1.7.3",
+        "latest_release_at": "2026-10-29T20:56:12Z",
+        "contributors": 3749
+      }
+    },
+    "langfuse": {
+      "name": "Langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "category": "eval-observability",
+      "github": {
+        "canonical_url": "https://github.com/langfuse/langfuse",
+        "stars": 36885,
+        "forks": 4147,
+        "open_issues": 1095,
+        "pushed_at": "2026-11-02T13:56:29Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v4.72.0",
+        "latest_release_at": "2026-10-29T16:14:48Z",
+        "contributors": 230
+      }
+    },
+    "langgraph": {
+      "name": "LangGraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/langchain-ai/langgraph",
+        "stars": 44334,
+        "forks": 7624,
+        "open_issues": 439,
+        "pushed_at": "2026-11-02T04:37:36Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "1.2.19",
+        "latest_release_at": "2026-10-30T22:23:43Z",
+        "contributors": 294
+      }
+    },
+    "latent-space": {
+      "name": "Latent Space",
+      "url": "https://www.latent.space/",
+      "category": "communities"
+    },
+    "letta": {
+      "name": "Letta",
+      "url": "https://github.com/letta-ai/letta",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/letta-ai/letta",
+        "stars": 25320,
+        "forks": 2665,
+        "open_issues": 0,
+        "pushed_at": "2026-10-18T22:28:04Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "0.16.8",
+        "latest_release_at": "2026-05-14T17:14:24Z",
+        "contributors": 155
+      }
+    },
+    "librechat": {
+      "name": "LibreChat",
+      "url": "https://github.com/LibreChat-AI/LibreChat",
+      "category": "uis",
+      "github": {
+        "canonical_url": "https://github.com/LibreChat-AI/LibreChat",
+        "stars": 46640,
+        "forks": 9590,
+        "open_issues": 1066,
+        "pushed_at": "2026-11-02T12:32:19Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 422
+      }
+    },
+    "lightrag": {
+      "name": "LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/HKUDS/LightRAG",
+        "stars": 40485,
+        "forks": 5752,
+        "open_issues": 432,
+        "pushed_at": "2026-10-29T18:05:03Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v1.5.7",
+        "latest_release_at": "2026-09-02T07:23:55Z",
+        "contributors": 353
+      }
+    },
+    "litellm": {
+      "name": "LiteLLM",
+      "url": "https://github.com/BerriAI/litellm",
+      "category": "deployment-infra",
+      "github": {
+        "canonical_url": "https://github.com/BerriAI/litellm",
+        "stars": 62551,
+        "forks": 12923,
+        "open_issues": 5602,
+        "pushed_at": "2026-11-02T13:47:05Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v1.106.6",
+        "latest_release_at": "2026-10-28T23:03:09Z",
+        "contributors": 1905
+      }
+    },
+    "llama-cpp": {
+      "name": "llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/ggml-org/llama.cpp",
+        "stars": 133148,
+        "forks": 25058,
+        "open_issues": 2579,
+        "pushed_at": "2026-11-02T13:20:02Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v0.8.0",
+        "latest_release_at": "2026-10-28T12:47:51Z",
+        "contributors": 2190
+      }
+    },
+    "llama-cpp-python": {
+      "name": "llama-cpp-python",
+      "url": "https://github.com/abetlen/llama-cpp-python",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/abetlen/llama-cpp-python",
+        "stars": 10667,
+        "forks": 1481,
+        "open_issues": 706,
+        "pushed_at": "2026-10-01T09:27:38Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v0.3.36-hip-radeon",
+        "latest_release_at": "2026-10-01T09:27:38Z",
+        "contributors": 196
+      }
+    },
+    "llama-models": {
+      "name": "Llama models",
+      "url": "https://github.com/meta-llama/llama-models",
+      "category": "open-weight-models",
+      "github": {
+        "canonical_url": "https://github.com/meta-llama/llama-models",
+        "stars": 7718,
+        "forks": 1409,
+        "open_issues": 231,
+        "pushed_at": "2026-02-11T16:38:31Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v0.2.0",
+        "latest_release_at": "2025-04-05T19:02:56Z",
+        "contributors": 44
+      }
+    },
+    "llamafile": {
+      "name": "llamafile",
+      "url": "https://github.com/mozilla-ai/llamafile",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/mozilla-ai/llamafile",
+        "stars": 26544,
+        "forks": 1674,
+        "open_issues": 220,
+        "pushed_at": "2026-10-12T00:26:41Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "0.10.6",
+        "latest_release_at": "2026-09-15T16:02:33Z",
+        "contributors": 78
+      }
+    },
+    "llamaindex": {
+      "name": "LlamaIndex",
+      "url": "https://github.com/run-llama/llama_index",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/run-llama/llama_index",
+        "stars": 52777,
+        "forks": 8498,
+        "open_issues": 1183,
+        "pushed_at": "2026-10-26T21:25:10Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v0.14.25",
+        "latest_release_at": "2026-09-21T16:22:27Z",
+        "contributors": 2007
+      }
+    },
+    "llm-c": {
+      "name": "llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "category": "learning",
+      "github": {
+        "canonical_url": "https://github.com/karpathy/llm.c",
+        "stars": 31371,
+        "forks": 3807,
+        "open_issues": 230,
+        "pushed_at": "2025-06-26T17:03:40Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 70
+      }
+    },
+    "llm-course": {
+      "name": "LLM Course",
+      "url": "https://github.com/mlabonne/llm-course",
+      "category": "learning",
+      "github": {
+        "canonical_url": "https://github.com/mlabonne/llm-course",
+        "stars": 84859,
+        "forks": 9872,
+        "open_issues": 92,
+        "pushed_at": "2026-02-05T13:09:26Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 3
+      }
+    },
+    "llm-d": {
+      "name": "llm-d",
+      "url": "https://github.com/llm-d/llm-d",
+      "category": "deployment-infra",
+      "github": {
+        "canonical_url": "https://github.com/llm-d/llm-d",
+        "stars": 5127,
+        "forks": 905,
+        "open_issues": 192,
+        "pushed_at": "2026-11-02T13:43:43Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.0.0",
+        "latest_release_at": "2026-10-20T02:30:10Z",
+        "contributors": 246
+      }
+    },
+    "llm-datasets": {
+      "name": "LLM Datasets",
+      "url": "https://github.com/mlabonne/llm-datasets",
+      "category": "datasets-benchmarks",
+      "github": {
+        "canonical_url": "https://github.com/mlabonne/llm-datasets",
+        "stars": 4830,
+        "forks": 408,
+        "open_issues": 9,
+        "pushed_at": "2026-04-29T18:17:40Z",
+        "archived": false,
+        "license": null,
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 7
+      }
+    },
+    "llm-guard": {
+      "name": "LLM Guard",
+      "url": "https://github.com/protectai/llm-guard",
+      "category": "privacy-offline",
+      "github": {
+        "canonical_url": "https://github.com/protectai/llm-guard",
+        "stars": 3219,
+        "forks": 472,
+        "open_issues": 37,
+        "pushed_at": "2026-07-08T23:58:40Z",
+        "archived": true,
+        "license": "MIT",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 24
+      }
+    },
+    "llms-from-scratch": {
+      "name": "LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "category": "learning",
+      "github": {
+        "canonical_url": "https://github.com/rasbt/LLMs-from-scratch",
+        "stars": 107693,
+        "forks": 16625,
+        "open_issues": 1,
+        "pushed_at": "2026-10-30T02:15:16Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 75
+      }
+    },
+    "lm-evaluation-harness": {
+      "name": "LM Evaluation Harness",
+      "url": "https://github.com/EleutherAI/lm-evaluation-harness",
+      "category": "eval-observability",
+      "github": {
+        "canonical_url": "https://github.com/EleutherAI/lm-evaluation-harness",
+        "stars": 14371,
+        "forks": 3749,
+        "open_issues": 1276,
+        "pushed_at": "2026-09-14T10:51:06Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v0.4.13",
+        "latest_release_at": "2026-08-31T20:42:30Z",
+        "contributors": 460
+      }
+    },
+    "lmdeploy": {
+      "name": "LMDeploy",
+      "url": "https://github.com/InternLM/lmdeploy",
+      "category": "inference-servers",
+      "github": {
+        "canonical_url": "https://github.com/InternLM/lmdeploy",
+        "stars": 8128,
+        "forks": 772,
+        "open_issues": 623,
+        "pushed_at": "2026-10-30T13:22:28Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.18.0",
+        "latest_release_at": "2026-09-28T07:04:58Z",
+        "contributors": 163
+      }
+    },
+    "lmsys-chatbot-arena": {
+      "name": "LMSYS Chatbot Arena",
+      "url": "https://github.com/lm-sys/FastChat",
+      "category": "datasets-benchmarks",
+      "github": {
+        "canonical_url": "https://github.com/lm-sys/FastChat",
+        "stars": 39550,
+        "forks": 4774,
+        "open_issues": 1051,
+        "pushed_at": "2026-05-01T00:25:53Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.2.36",
+        "latest_release_at": "2024-02-11T15:40:27Z",
+        "contributors": 246
+      }
+    },
+    "lobehub": {
+      "name": "LobeHub",
+      "url": "https://github.com/lobehub/lobehub",
+      "category": "uis",
+      "github": {
+        "canonical_url": "https://github.com/lobehub/lobehub",
+        "stars": 83706,
+        "forks": 16031,
+        "open_issues": 1188,
+        "pushed_at": "2026-11-02T13:52:25Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v2.3.0",
+        "latest_release_at": "2026-11-01T09:12:54Z",
+        "contributors": 363
+      }
+    },
+    "localai": {
+      "name": "LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/mudler/LocalAI",
+        "stars": 50133,
+        "forks": 4566,
+        "open_issues": 211,
+        "pushed_at": "2026-11-02T13:52:31Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v4.12.1",
+        "latest_release_at": "2026-10-23T10:27:00Z",
+        "contributors": 273
+      }
+    },
+    "localgpt": {
+      "name": "localGPT",
+      "url": "https://github.com/PromtEngineer/localGPT",
+      "category": "privacy-offline",
+      "github": {
+        "canonical_url": "https://github.com/PromtEngineer/localGPT",
+        "stars": 22202,
+        "forks": 2451,
+        "open_issues": 22,
+        "pushed_at": "2026-08-26T04:52:30Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 51
+      }
+    },
+    "marqo": {
+      "name": "Marqo",
+      "url": "https://github.com/marqo-ai/marqo",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/marqo-ai/marqo",
+        "stars": 5025,
+        "forks": 242,
+        "open_issues": 196,
+        "pushed_at": "2026-09-03T04:15:26Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "2.26.0",
+        "latest_release_at": "2026-04-07T02:19:02Z",
+        "contributors": 40
+      }
+    },
+    "mastra": {
+      "name": "Mastra",
+      "url": "https://github.com/mastra-ai/mastra",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/mastra-ai/mastra",
+        "stars": 29277,
+        "forks": 3068,
+        "open_issues": 718,
+        "pushed_at": "2026-11-02T13:56:30Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "@mastra/core@1.81.0",
+        "latest_release_at": "2026-11-02T12:33:26Z",
+        "contributors": 702
+      }
+    },
+    "maxkb": {
+      "name": "MaxKB",
+      "url": "https://github.com/1Panel-dev/MaxKB",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/1Panel-dev/MaxKB",
+        "stars": 23093,
+        "forks": 3210,
+        "open_issues": 30,
+        "pushed_at": "2026-11-02T12:00:48Z",
+        "archived": false,
+        "license": "GPL-3.0",
+        "latest_release": "v2.10.8-lts",
+        "latest_release_at": "2026-10-22T02:58:15Z",
+        "contributors": 101
+      }
+    },
+    "mcp-servers": {
+      "name": "MCP servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/modelcontextprotocol/servers",
+        "stars": 91744,
+        "forks": 11904,
+        "open_issues": 38,
+        "pushed_at": "2026-10-29T05:27:40Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v2.2.0",
+        "latest_release_at": "2026-10-28T20:57:13Z",
+        "contributors": 1072
+      }
+    },
+    "mem0": {
+      "name": "Mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/mem0ai/mem0",
+        "stars": 68278,
+        "forks": 8104,
+        "open_issues": 897,
+        "pushed_at": "2026-10-30T21:36:23Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "ts-v3.3.1",
+        "latest_release_at": "2026-09-25T17:36:35Z",
+        "contributors": 411
+      }
+    },
+    "metagpt": {
+      "name": "MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/FoundationAgents/MetaGPT",
+        "stars": 71137,
+        "forks": 9085,
+        "open_issues": 142,
+        "pushed_at": "2026-01-21T10:12:33Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v0.8.1",
+        "latest_release_at": "2024-04-22T10:56:23Z",
+        "contributors": 148
+      }
+    },
+    "milvus": {
+      "name": "Milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/milvus-io/milvus",
+        "stars": 46559,
+        "forks": 4325,
+        "open_issues": 1504,
+        "pushed_at": "2026-11-02T12:51:48Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v3.0.5",
+        "latest_release_at": "2026-10-30T10:43:28Z",
+        "contributors": 396
+      }
+    },
+    "mistral": {
+      "name": "Mistral",
+      "url": "https://github.com/mistralai/mistral-inference",
+      "category": "open-weight-models",
+      "github": {
+        "canonical_url": "https://github.com/mistralai/mistral-inference",
+        "stars": 10824,
+        "forks": 1062,
+        "open_issues": 1,
+        "pushed_at": "2026-06-16T15:40:44Z",
+        "archived": true,
+        "license": "Apache-2.0",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": null
+      }
+    },
+    "mlc-llm": {
+      "name": "MLC LLM",
+      "url": "https://github.com/mlc-ai/mlc-llm",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/mlc-ai/mlc-llm",
+        "stars": 23294,
+        "forks": 2165,
+        "open_issues": 363,
+        "pushed_at": "2026-10-30T09:07:12Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 165
+      }
+    },
+    "mlflow": {
+      "name": "MLflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "category": "deployment-infra",
+      "github": {
+        "canonical_url": "https://github.com/mlflow/mlflow",
+        "stars": 28628,
+        "forks": 6569,
+        "open_issues": 2222,
+        "pushed_at": "2026-11-02T13:41:46Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v3.17.2",
+        "latest_release_at": "2026-10-21T03:51:13Z",
+        "contributors": 1269
+      }
+    },
+    "mlops-community": {
+      "name": "MLOps Community",
+      "url": "https://mlops.community/",
+      "category": "communities"
+    },
+    "mlx": {
+      "name": "MLX",
+      "url": "https://github.com/ml-explore/mlx",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/ml-explore/mlx",
+        "stars": 29025,
+        "forks": 2396,
+        "open_issues": 124,
+        "pushed_at": "2026-11-02T10:31:39Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v0.32.4",
+        "latest_release_at": "2026-10-14T23:37:14Z",
+        "contributors": 398
+      }
+    },
+    "mlx-lm": {
+      "name": "mlx-lm",
+      "url": "https://github.com/ml-explore/mlx-lm",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/ml-explore/mlx-lm",
+        "stars": 7533,
+        "forks": 1162,
+        "open_issues": 256,
+        "pushed_at": "2026-10-30T09:28:48Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v0.32.2",
+        "latest_release_at": "2026-10-16T02:49:02Z",
+        "contributors": 266
+      }
+    },
+    "mteb": {
+      "name": "MTEB",
+      "url": "https://github.com/embeddings-benchmark/mteb",
+      "category": "datasets-benchmarks",
+      "github": {
+        "canonical_url": "https://github.com/embeddings-benchmark/mteb",
+        "stars": 3488,
+        "forks": 755,
+        "open_issues": 342,
+        "pushed_at": "2026-11-02T13:13:52Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "2.26.31",
+        "latest_release_at": "2026-11-01T15:22:57Z",
+        "contributors": 367
+      }
+    },
+    "nanogpt": {
+      "name": "nanoGPT",
+      "url": "https://github.com/karpathy/nanoGPT",
+      "category": "learning",
+      "github": {
+        "canonical_url": "https://github.com/karpathy/nanoGPT",
+        "stars": 64377,
+        "forks": 11063,
+        "open_issues": 355,
+        "pushed_at": "2025-11-12T19:52:34Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 37
+      }
+    },
+    "nemo-guardrails": {
+      "name": "NeMo Guardrails",
+      "url": "https://github.com/NVIDIA-NeMo/Guardrails",
+      "category": "privacy-offline",
+      "github": {
+        "canonical_url": "https://github.com/NVIDIA-NeMo/Guardrails",
+        "stars": 7414,
+        "forks": 893,
+        "open_issues": 280,
+        "pushed_at": "2026-11-01T11:27:59Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v0.24.1",
+        "latest_release_at": "2026-09-16T17:15:59Z",
+        "contributors": 130
+      }
+    },
+    "nomic-embed": {
+      "name": "Nomic Embed",
+      "url": "https://github.com/nomic-ai/nomic",
+      "category": "embeddings",
+      "github": {
+        "canonical_url": "https://github.com/nomic-ai/nomic",
+        "stars": 1883,
+        "forks": 196,
+        "open_issues": 50,
+        "pushed_at": "2025-11-11T05:18:31Z",
+        "archived": false,
+        "license": null,
+        "latest_release": "v3.9.0",
+        "latest_release_at": "2025-11-11T05:18:39Z",
+        "contributors": 22
+      }
+    },
+    "nvidia-container-toolkit": {
+      "name": "NVIDIA Container Toolkit",
+      "url": "https://github.com/NVIDIA/nvidia-container-toolkit",
+      "category": "compute-gpus",
+      "github": {
+        "canonical_url": "https://github.com/NVIDIA/nvidia-container-toolkit",
+        "stars": 4608,
+        "forks": 610,
+        "open_issues": 71,
+        "pushed_at": "2026-11-01T09:15:56Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.20.1",
+        "latest_release_at": "2026-09-19T00:01:48Z",
+        "contributors": 68
+      }
+    },
+    "nvidia-device-plugin-for-kubernetes": {
+      "name": "NVIDIA device plugin for Kubernetes",
+      "url": "https://github.com/NVIDIA/k8s-device-plugin",
+      "category": "compute-gpus",
+      "github": {
+        "canonical_url": "https://github.com/NVIDIA/k8s-device-plugin",
+        "stars": 3914,
+        "forks": 888,
+        "open_issues": 84,
+        "pushed_at": "2026-11-02T07:45:05Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.20.1",
+        "latest_release_at": "2026-09-22T20:00:53Z",
+        "contributors": 89
+      }
+    },
+    "nvitop": {
+      "name": "nvitop",
+      "url": "https://github.com/XuehaiPan/nvitop",
+      "category": "compute-gpus",
+      "github": {
+        "canonical_url": "https://github.com/XuehaiPan/nvitop",
+        "stars": 7239,
+        "forks": 254,
+        "open_issues": 21,
+        "pushed_at": "2026-11-02T07:34:16Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.7.2",
+        "latest_release_at": "2026-10-26T04:38:22Z",
+        "contributors": 7
+      }
+    },
+    "nvtop": {
+      "name": "nvtop",
+      "url": "https://github.com/Syllo/nvtop",
+      "category": "compute-gpus",
+      "github": {
+        "canonical_url": "https://github.com/Syllo/nvtop",
+        "stars": 11118,
+        "forks": 454,
+        "open_issues": 152,
+        "pushed_at": "2026-10-04T13:42:35Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "3.3.2",
+        "latest_release_at": "2026-02-08T17:57:16Z",
+        "contributors": 98
+      }
+    },
+    "ollama": {
+      "name": "Ollama",
+      "url": "https://github.com/ollama/ollama",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/ollama/ollama",
+        "stars": 185659,
+        "forks": 18865,
+        "open_issues": 4543,
+        "pushed_at": "2026-11-02T05:30:37Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v0.40.13",
+        "latest_release_at": "2026-10-28T19:55:04Z",
+        "contributors": 627
+      }
+    },
+    "ollama-discord": {
+      "name": "Ollama Discord",
+      "url": "https://discord.com/invite/ollama",
+      "category": "communities"
+    },
+    "open-interpreter": {
+      "name": "Open Interpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/openinterpreter/openinterpreter",
+        "stars": 68777,
+        "forks": 5939,
+        "open_issues": 34,
+        "pushed_at": "2026-11-01T10:01:41Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "rust-v0.0.58",
+        "latest_release_at": "2026-11-01T11:40:50Z",
+        "contributors": 616
+      }
+    },
+    "open-webui": {
+      "name": "Open WebUI",
+      "url": "https://github.com/open-webui/open-webui",
+      "category": "uis",
+      "github": {
+        "canonical_url": "https://github.com/open-webui/open-webui",
+        "stars": 157537,
+        "forks": 22912,
+        "open_issues": 166,
+        "pushed_at": "2026-11-02T11:42:01Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v0.12.5",
+        "latest_release_at": "2026-10-29T09:08:03Z",
+        "contributors": 892
+      }
+    },
+    "openhands": {
+      "name": "OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/OpenHands/OpenHands",
+        "stars": 92493,
+        "forks": 12325,
+        "open_issues": 1167,
+        "pushed_at": "2026-11-02T13:39:50Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v1.34.0",
+        "latest_release_at": "2026-10-27T14:35:23Z",
+        "contributors": 590
+      }
+    },
+    "openllm": {
+      "name": "OpenLLM",
+      "url": "https://github.com/bentoml/OpenLLM",
+      "category": "deployment-infra",
+      "github": {
+        "canonical_url": "https://github.com/bentoml/OpenLLM",
+        "stars": 12576,
+        "forks": 848,
+        "open_issues": 21,
+        "pushed_at": "2026-10-26T17:05:52Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.6.30",
+        "latest_release_at": "2025-04-21T04:10:55Z",
+        "contributors": 34
+      }
+    },
+    "openllmetry": {
+      "name": "OpenLLMetry",
+      "url": "https://github.com/traceloop/openllmetry",
+      "category": "eval-observability",
+      "github": {
+        "canonical_url": "https://github.com/traceloop/openllmetry",
+        "stars": 7518,
+        "forks": 1185,
+        "open_issues": 828,
+        "pushed_at": "2026-11-02T13:34:23Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "0.62.4",
+        "latest_release_at": "2026-09-29T10:41:17Z",
+        "contributors": 117
+      }
+    },
+    "opensearch": {
+      "name": "OpenSearch",
+      "url": "https://github.com/opensearch-project/OpenSearch",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/opensearch-project/OpenSearch",
+        "stars": 13949,
+        "forks": 3117,
+        "open_issues": 3303,
+        "pushed_at": "2026-11-02T07:55:11Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "3.9.0",
+        "latest_release_at": "2026-09-29T21:54:18Z",
+        "contributors": 2231
+      }
+    },
+    "openvino": {
+      "name": "OpenVINO",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "category": "compute-gpus",
+      "github": {
+        "canonical_url": "https://github.com/openvinotoolkit/openvino",
+        "stars": 11105,
+        "forks": 3511,
+        "open_issues": 981,
+        "pushed_at": "2026-11-02T12:14:39Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "2026.4.1",
+        "latest_release_at": "2026-10-01T13:45:59Z",
+        "contributors": 920
+      }
+    },
+    "opik": {
+      "name": "Opik",
+      "url": "https://github.com/comet-ml/opik",
+      "category": "eval-observability",
+      "github": {
+        "canonical_url": "https://github.com/comet-ml/opik",
+        "stars": 23119,
+        "forks": 1923,
+        "open_issues": 201,
+        "pushed_at": "2026-11-02T13:55:54Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "2.2.138",
+        "latest_release_at": "2026-11-02T10:48:55Z",
+        "contributors": 188
+      }
+    },
+    "pgvector": {
+      "name": "pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/pgvector/pgvector",
+        "stars": 23566,
+        "forks": 1379,
+        "open_issues": 16,
+        "pushed_at": "2026-10-31T22:12:50Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 27
+      }
+    },
+    "phi": {
+      "name": "Phi",
+      "url": "https://huggingface.co/microsoft/phi-4",
+      "category": "open-weight-models"
+    },
+    "phoenix": {
+      "name": "Phoenix",
+      "url": "https://github.com/Arize-ai/phoenix",
+      "category": "eval-observability",
+      "github": {
+        "canonical_url": "https://github.com/Arize-ai/phoenix",
+        "stars": 12103,
+        "forks": 1258,
+        "open_issues": 1228,
+        "pushed_at": "2026-11-02T13:50:49Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "arize-phoenix-client-v3.6.0",
+        "latest_release_at": "2026-10-30T03:37:14Z",
+        "contributors": 267
+      }
+    },
+    "portkey-gateway": {
+      "name": "Portkey Gateway",
+      "url": "https://github.com/Portkey-AI/gateway",
+      "category": "deployment-infra",
+      "github": {
+        "canonical_url": "https://github.com/Portkey-AI/gateway",
+        "stars": 13301,
+        "forks": 1365,
+        "open_issues": 324,
+        "pushed_at": "2026-05-25T13:54:51Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v1.15.2",
+        "latest_release_at": "2026-01-12T08:46:07Z",
+        "contributors": 123
+      }
+    },
+    "presidio": {
+      "name": "Presidio",
+      "url": "https://github.com/data-privacy-stack/presidio",
+      "category": "privacy-offline",
+      "github": {
+        "canonical_url": "https://github.com/data-privacy-stack/presidio",
+        "stars": 11634,
+        "forks": 1405,
+        "open_issues": 241,
+        "pushed_at": "2026-11-01T09:32:36Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "2.2.366",
+        "latest_release_at": "2026-10-27T09:26:55Z",
+        "contributors": 223
+      }
+    },
+    "privategpt": {
+      "name": "PrivateGPT",
+      "url": "https://github.com/zylon-ai/private-gpt",
+      "category": "privacy-offline",
+      "github": {
+        "canonical_url": "https://github.com/zylon-ai/private-gpt",
+        "stars": 57627,
+        "forks": 7620,
+        "open_issues": 19,
+        "pushed_at": "2026-10-29T13:49:17Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.0.1",
+        "latest_release_at": "2026-06-18T13:56:00Z",
+        "contributors": 114
+      }
+    },
+    "promptfoo": {
+      "name": "promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "category": "eval-observability",
+      "github": {
+        "canonical_url": "https://github.com/promptfoo/promptfoo",
+        "stars": 26744,
+        "forks": 2632,
+        "open_issues": 901,
+        "pushed_at": "2026-11-02T13:51:34Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "0.125.1",
+        "latest_release_at": "2026-10-25T01:53:11Z",
+        "contributors": 395
+      }
+    },
+    "purplellama": {
+      "name": "PurpleLlama",
+      "url": "https://github.com/meta-llama/PurpleLlama",
+      "category": "privacy-offline",
+      "github": {
+        "canonical_url": "https://github.com/meta-llama/PurpleLlama",
+        "stars": 4458,
+        "forks": 783,
+        "open_issues": 90,
+        "pushed_at": "2026-10-30T17:56:26Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 73
+      }
+    },
+    "pydantic-ai": {
+      "name": "Pydantic AI",
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/pydantic/pydantic-ai",
+        "stars": 20997,
+        "forks": 3080,
+        "open_issues": 1754,
+        "pushed_at": "2026-11-02T13:44:45Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v2.64.0",
+        "latest_release_at": "2026-10-30T23:27:24Z",
+        "contributors": 648
+      }
+    },
+    "qdrant": {
+      "name": "Qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/qdrant/qdrant",
+        "stars": 35385,
+        "forks": 2793,
+        "open_issues": 781,
+        "pushed_at": "2026-11-02T13:28:14Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.20.0",
+        "latest_release_at": "2026-10-22T14:14:12Z",
+        "contributors": 215
+      }
+    },
+    "quantization-levels-for-edge-llm-deployment": {
+      "name": "Quantization Levels for Edge LLM Deployment",
+      "url": "https://www.actian.com/blog/developer/which-quantization-level-should-you-use-for-edge-llm-deployment/",
+      "category": "learning"
+    },
+    "quivr": {
+      "name": "Quivr",
+      "url": "https://github.com/The-Vibe-Company/quivr",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/The-Vibe-Company/quivr",
+        "stars": 39625,
+        "forks": 3731,
+        "open_issues": 14,
+        "pushed_at": "2026-11-02T13:48:45Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v2.0.2",
+        "latest_release_at": "2026-10-30T13:59:45Z",
+        "contributors": 120
+      }
+    },
+    "qwen3": {
+      "name": "Qwen3",
+      "url": "https://github.com/QwenLM/Qwen3",
+      "category": "open-weight-models",
+      "github": {
+        "canonical_url": "https://github.com/QwenLM/Qwen3",
+        "stars": 27699,
+        "forks": 2095,
+        "open_issues": 69,
+        "pushed_at": "2026-01-09T03:05:47Z",
+        "archived": false,
+        "license": null,
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 50
+      }
+    },
+    "r-localllama": {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/",
+      "category": "communities"
+    },
+    "r-selfhosted": {
+      "name": "r/selfhosted",
+      "url": "https://www.reddit.com/r/selfhosted/",
+      "category": "communities"
+    },
+    "rag-techniques": {
+      "name": "RAG Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "category": "learning",
+      "github": {
+        "canonical_url": "https://github.com/NirDiamant/RAG_Techniques",
+        "stars": 30192,
+        "forks": 3698,
+        "open_issues": 7,
+        "pushed_at": "2026-11-02T00:36:15Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "ai-agents-book-v1.0",
+        "latest_release_at": "2026-10-26T15:36:12Z",
+        "contributors": 47
+      }
+    },
+    "ragas": {
+      "name": "Ragas",
+      "url": "https://github.com/vibrantlabsai/ragas",
+      "category": "eval-observability",
+      "github": {
+        "canonical_url": "https://github.com/vibrantlabsai/ragas",
+        "stars": 16216,
+        "forks": 1795,
+        "open_issues": 646,
+        "pushed_at": "2026-02-24T07:47:19Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.4.3",
+        "latest_release_at": "2026-01-13T17:47:29Z",
+        "contributors": 246
+      }
+    },
+    "ragflow": {
+      "name": "RAGFlow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/infiniflow/ragflow",
+        "stars": 93362,
+        "forks": 11207,
+        "open_issues": 1304,
+        "pushed_at": "2026-11-02T13:34:31Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.0.0-rc3",
+        "latest_release_at": "2026-10-30T11:53:15Z",
+        "contributors": 916
+      }
+    },
+    "ray-serve": {
+      "name": "Ray Serve",
+      "url": "https://github.com/ray-project/ray",
+      "category": "deployment-infra",
+      "github": {
+        "canonical_url": "https://github.com/ray-project/ray",
+        "stars": 44182,
+        "forks": 8238,
+        "open_issues": 3715,
+        "pushed_at": "2026-11-02T13:40:04Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "ray-2.59.0",
+        "latest_release_at": "2026-10-02T07:04:37Z",
+        "contributors": 1781
+      }
+    },
+    "redis": {
+      "name": "Redis",
+      "url": "https://github.com/redis/redis",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/redis/redis",
+        "stars": 77140,
+        "forks": 25036,
+        "open_issues": 3102,
+        "pushed_at": "2026-11-02T13:50:49Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "8.10.3",
+        "latest_release_at": "2026-10-26T11:56:24Z",
+        "contributors": 967
+      }
+    },
+    "redpajama-data": {
+      "name": "RedPajama-Data",
+      "url": "https://github.com/togethercomputer/RedPajama-Data",
+      "category": "datasets-benchmarks",
+      "github": {
+        "canonical_url": "https://github.com/togethercomputer/RedPajama-Data",
+        "stars": 4998,
+        "forks": 372,
+        "open_issues": 43,
+        "pushed_at": "2026-06-03T16:00:12Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 9
+      }
+    },
+    "rocm": {
+      "name": "ROCm",
+      "url": "https://github.com/ROCm/TheRock",
+      "category": "compute-gpus",
+      "github": {
+        "canonical_url": "https://github.com/ROCm/TheRock",
+        "stars": 1421,
+        "forks": 362,
+        "open_issues": 1537,
+        "pushed_at": "2026-11-02T13:33:47Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "therock-10.1",
+        "latest_release_at": "2026-10-05T10:42:56Z",
+        "contributors": 268
+      }
+    },
+    "seldon-core": {
+      "name": "Seldon Core",
+      "url": "https://github.com/SeldonIO/seldon-core",
+      "category": "deployment-infra",
+      "github": {
+        "canonical_url": "https://github.com/SeldonIO/seldon-core",
+        "stars": 4784,
+        "forks": 862,
+        "open_issues": 396,
+        "pushed_at": "2026-03-23T11:39:54Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v2.10.2",
+        "latest_release_at": "2025-12-19T10:55:25Z",
+        "contributors": 44
+      }
+    },
+    "semantic-kernel": {
+      "name": "Semantic Kernel",
+      "url": "https://github.com/microsoft/semantic-kernel",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/microsoft/semantic-kernel",
+        "stars": 28724,
+        "forks": 4852,
+        "open_issues": 324,
+        "pushed_at": "2026-11-02T13:52:27Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "dotnet-1.81.0",
+        "latest_release_at": "2026-10-06T16:34:47Z",
+        "contributors": 447
+      }
+    },
+    "sentence-transformers": {
+      "name": "Sentence Transformers",
+      "url": "https://github.com/huggingface/sentence-transformers",
+      "category": "embeddings",
+      "github": {
+        "canonical_url": "https://github.com/huggingface/sentence-transformers",
+        "stars": 19247,
+        "forks": 3004,
+        "open_issues": 1306,
+        "pushed_at": "2026-11-02T10:54:28Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v6.2.0",
+        "latest_release_at": "2026-10-21T12:27:04Z",
+        "contributors": 360
+      }
+    },
+    "sglang": {
+      "name": "SGLang",
+      "url": "https://github.com/sgl-project/sglang",
+      "category": "inference-servers",
+      "github": {
+        "canonical_url": "https://github.com/sgl-project/sglang",
+        "stars": 38371,
+        "forks": 10084,
+        "open_issues": 6306,
+        "pushed_at": "2026-11-02T13:53:02Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.5.22",
+        "latest_release_at": "2026-10-19T02:55:19Z",
+        "contributors": 2188
+      }
+    },
+    "should-you-use-rag-or-fine-tune": {
+      "name": "Should You Use RAG or Fine-Tune",
+      "url": "https://www.actian.com/blog/databases/should-you-use-rag-or-fine-tune-your-llm/",
+      "category": "learning"
+    },
+    "sillytavern": {
+      "name": "SillyTavern",
+      "url": "https://github.com/SillyTavern/SillyTavern",
+      "category": "uis",
+      "github": {
+        "canonical_url": "https://github.com/SillyTavern/SillyTavern",
+        "stars": 35220,
+        "forks": 6634,
+        "open_issues": 690,
+        "pushed_at": "2026-10-02T22:05:54Z",
+        "archived": false,
+        "license": "AGPL-3.0",
+        "latest_release": "1.19.0",
+        "latest_release_at": "2026-09-14T18:05:11Z",
+        "contributors": 417
+      }
+    },
+    "skypilot": {
+      "name": "SkyPilot",
+      "url": "https://github.com/skypilot-org/skypilot",
+      "category": "deployment-infra",
+      "github": {
+        "canonical_url": "https://github.com/skypilot-org/skypilot",
+        "stars": 10782,
+        "forks": 1326,
+        "open_issues": 516,
+        "pushed_at": "2026-11-02T13:39:21Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.14.2",
+        "latest_release_at": "2026-10-28T18:26:56Z",
+        "contributors": 290
+      }
+    },
+    "smolagents": {
+      "name": "smolagents",
+      "url": "https://github.com/huggingface/smolagents",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/huggingface/smolagents",
+        "stars": 30189,
+        "forks": 3190,
+        "open_issues": 1035,
+        "pushed_at": "2026-10-29T12:52:33Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.26.0",
+        "latest_release_at": "2026-05-29T05:09:47Z",
+        "contributors": 208
+      }
+    },
+    "sonar": {
+      "name": "Sonar",
+      "url": "https://github.com/dphnAI/sonar",
+      "category": "inference-servers",
+      "github": {
+        "canonical_url": "https://github.com/dphnAI/sonar",
+        "stars": 1899,
+        "forks": 213,
+        "open_issues": 55,
+        "pushed_at": "2026-10-30T07:22:14Z",
+        "archived": false,
+        "license": "AGPL-3.0",
+        "latest_release": "v0.24.1",
+        "latest_release_at": "2026-09-11T20:40:09Z",
+        "contributors": 43
+      }
+    },
+    "speaches": {
+      "name": "Speaches",
+      "url": "https://github.com/speaches-ai/speaches",
+      "category": "privacy-offline",
+      "github": {
+        "canonical_url": "https://github.com/speaches-ai/speaches",
+        "stars": 3752,
+        "forks": 465,
+        "open_issues": 150,
+        "pushed_at": "2026-11-01T04:36:43Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v0.9.0-rc.3",
+        "latest_release_at": "2025-12-27T18:55:06Z",
+        "contributors": 34
+      }
+    },
+    "superagi": {
+      "name": "SuperAGI",
+      "url": "https://github.com/TransformerOptimus/SuperAGI",
+      "category": "agents-memory",
+      "github": {
+        "canonical_url": "https://github.com/TransformerOptimus/SuperAGI",
+        "stars": 17724,
+        "forks": 2222,
+        "open_issues": 269,
+        "pushed_at": "2025-01-22T22:14:07Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v0.0.14",
+        "latest_release_at": "2024-01-16T14:21:23Z",
+        "contributors": 74
+      }
+    },
+    "tabby": {
+      "name": "Tabby",
+      "url": "https://github.com/TabbyML/tabby",
+      "category": "uis",
+      "github": {
+        "canonical_url": "https://github.com/TabbyML/tabby",
+        "stars": 33923,
+        "forks": 1793,
+        "open_issues": 345,
+        "pushed_at": "2026-06-30T20:38:02Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v0.32.0",
+        "latest_release_at": "2026-01-25T17:07:44Z",
+        "contributors": 118
+      }
+    },
+    "tensorrt-llm": {
+      "name": "TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "category": "inference-servers",
+      "github": {
+        "canonical_url": "https://github.com/NVIDIA/TensorRT-LLM",
+        "stars": 14992,
+        "forks": 2898,
+        "open_issues": 1867,
+        "pushed_at": "2026-11-02T13:42:54Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v1.2.1",
+        "latest_release_at": "2026-04-20T11:51:33Z",
+        "contributors": 508
+      }
+    },
+    "text-embeddings-inference": {
+      "name": "Text Embeddings Inference",
+      "url": "https://github.com/huggingface/text-embeddings-inference",
+      "category": "embeddings",
+      "github": {
+        "canonical_url": "https://github.com/huggingface/text-embeddings-inference",
+        "stars": 5097,
+        "forks": 451,
+        "open_issues": 218,
+        "pushed_at": "2026-10-13T14:33:07Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.9.4",
+        "latest_release_at": "2026-09-15T09:28:03Z",
+        "contributors": 69
+      }
+    },
+    "text-generation-web-ui": {
+      "name": "Text generation web UI",
+      "url": "https://github.com/oobabooga/textgen",
+      "category": "uis",
+      "github": {
+        "canonical_url": "https://github.com/oobabooga/textgen",
+        "stars": 47729,
+        "forks": 5981,
+        "open_issues": 867,
+        "pushed_at": "2026-08-17T17:38:16Z",
+        "archived": false,
+        "license": "AGPL-3.0",
+        "latest_release": "v4.9",
+        "latest_release_at": "2026-05-20T19:02:34Z",
+        "contributors": 394
+      }
+    },
+    "the-illustrated-transformer": {
+      "name": "The Illustrated Transformer",
+      "url": "https://jalammar.github.io/illustrated-transformer/",
+      "category": "learning"
+    },
+    "triton-inference-server": {
+      "name": "Triton Inference Server",
+      "url": "https://github.com/triton-inference-server/server",
+      "category": "inference-servers",
+      "github": {
+        "canonical_url": "https://github.com/triton-inference-server/server",
+        "stars": 11125,
+        "forks": 1866,
+        "open_issues": 903,
+        "pushed_at": "2026-11-02T08:18:51Z",
+        "archived": false,
+        "license": "BSD-3-Clause",
+        "latest_release": "v2.73.0",
+        "latest_release_at": "2026-09-30T22:26:40Z",
+        "contributors": 152
+      }
+    },
+    "trulens": {
+      "name": "TruLens",
+      "url": "https://github.com/truera/trulens",
+      "category": "eval-observability",
+      "github": {
+        "canonical_url": "https://github.com/truera/trulens",
+        "stars": 3622,
+        "forks": 383,
+        "open_issues": 141,
+        "pushed_at": "2026-10-31T23:48:56Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "trulens-2.16.0",
+        "latest_release_at": "2026-10-19T17:17:18Z",
+        "contributors": 131
+      }
+    },
+    "txtai": {
+      "name": "txtai",
+      "url": "https://github.com/neuml/txtai",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/neuml/txtai",
+        "stars": 13061,
+        "forks": 959,
+        "open_issues": 22,
+        "pushed_at": "2026-11-01T15:12:49Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v9.14.0",
+        "latest_release_at": "2026-10-06T12:49:05Z",
+        "contributors": 87
+      }
+    },
+    "typesense": {
+      "name": "Typesense",
+      "url": "https://github.com/typesense/typesense",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/typesense/typesense",
+        "stars": 27076,
+        "forks": 1024,
+        "open_issues": 923,
+        "pushed_at": "2026-10-30T15:21:59Z",
+        "archived": false,
+        "license": "GPL-3.0",
+        "latest_release": "v30.2",
+        "latest_release_at": "2026-04-19T16:00:09Z",
+        "contributors": 59
+      }
+    },
+    "unstructured": {
+      "name": "Unstructured",
+      "url": "https://github.com/Unstructured-IO/unstructured",
+      "category": "rag-orchestration",
+      "github": {
+        "canonical_url": "https://github.com/Unstructured-IO/unstructured",
+        "stars": 15670,
+        "forks": 1380,
+        "open_issues": 336,
+        "pushed_at": "2026-11-02T05:43:47Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "0.27.36",
+        "latest_release_at": "2026-10-30T00:57:50Z",
+        "contributors": 184
+      }
+    },
+    "vald": {
+      "name": "Vald",
+      "url": "https://github.com/vdaas/vald",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/vdaas/vald",
+        "stars": 1737,
+        "forks": 94,
+        "open_issues": 150,
+        "pushed_at": "2026-11-02T06:53:16Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v1.8.0",
+        "latest_release_at": "2026-08-26T06:00:26Z",
+        "contributors": 38
+      }
+    },
+    "vane": {
+      "name": "Vane",
+      "url": "https://github.com/ItzCrazyKns/Vane",
+      "category": "uis",
+      "github": {
+        "canonical_url": "https://github.com/ItzCrazyKns/Vane",
+        "stars": 37966,
+        "forks": 4226,
+        "open_issues": 377,
+        "pushed_at": "2026-09-01T14:12:12Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v1.12.2",
+        "latest_release_at": "2026-04-10T13:30:52Z",
+        "contributors": 50
+      }
+    },
+    "vector-db-sizing-calculator": {
+      "name": "Vector DB sizing calculator",
+      "url": "https://github.com/actian-devs/vector-db-calculator",
+      "category": "related",
+      "github": {
+        "canonical_url": "https://github.com/actian-devs/vector-db-calculator",
+        "stars": 0,
+        "forks": 0,
+        "open_issues": 0,
+        "pushed_at": "2026-10-28T20:42:45Z",
+        "archived": false,
+        "license": null,
+        "latest_release": null,
+        "latest_release_at": null,
+        "contributors": 2
+      }
+    },
+    "vectordbbench": {
+      "name": "VectorDBBench",
+      "url": "https://github.com/zilliztech/VectorDBBench",
+      "category": "datasets-benchmarks",
+      "github": {
+        "canonical_url": "https://github.com/zilliztech/VectorDBBench",
+        "stars": 1199,
+        "forks": 450,
+        "open_issues": 179,
+        "pushed_at": "2026-10-29T12:45:56Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v2.0.0",
+        "latest_release_at": "2026-09-10T13:18:03Z",
+        "contributors": 112
+      }
+    },
+    "vespa": {
+      "name": "Vespa",
+      "url": "https://github.com/vespa-engine/vespa",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/vespa-engine/vespa",
+        "stars": 7157,
+        "forks": 750,
+        "open_issues": 259,
+        "pushed_at": "2026-11-02T13:54:56Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v8.781.11",
+        "latest_release_at": "2026-11-02T03:38:00Z",
+        "contributors": 219
+      }
+    },
+    "vllm": {
+      "name": "vLLM",
+      "url": "https://github.com/vllm-project/vllm",
+      "category": "inference-servers",
+      "github": {
+        "canonical_url": "https://github.com/vllm-project/vllm",
+        "stars": 96130,
+        "forks": 24308,
+        "open_issues": 9789,
+        "pushed_at": "2026-11-02T13:53:38Z",
+        "archived": false,
+        "license": "Apache-2.0",
+        "latest_release": "v0.33.0rc3",
+        "latest_release_at": "2026-11-02T10:10:05Z",
+        "contributors": 3957
+      }
+    },
+    "weaviate": {
+      "name": "Weaviate",
+      "url": "https://github.com/weaviate/weaviate",
+      "category": "vector-databases",
+      "github": {
+        "canonical_url": "https://github.com/weaviate/weaviate",
+        "stars": 16934,
+        "forks": 1433,
+        "open_issues": 822,
+        "pushed_at": "2026-11-02T13:56:43Z",
+        "archived": false,
+        "license": "NOASSERTION",
+        "latest_release": "v1.40.3",
+        "latest_release_at": "2026-10-28T11:43:48Z",
+        "contributors": 191
+      }
+    },
+    "what-is-a-vector-database": {
+      "name": "What Is a Vector Database",
+      "url": "https://www.youtube.com/watch?v=pesWa2wod0k",
+      "category": "learning"
+    },
+    "what-is-agent-memory": {
+      "name": "What Is Agent Memory",
+      "url": "https://www.youtube.com/watch?v=lq9AVW87B-g",
+      "category": "learning"
+    },
+    "whisper-cpp": {
+      "name": "whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "category": "local-runtimes",
+      "github": {
+        "canonical_url": "https://github.com/ggml-org/whisper.cpp",
+        "stars": 54863,
+        "forks": 6266,
+        "open_issues": 363,
+        "pushed_at": "2026-10-30T05:51:01Z",
+        "archived": false,
+        "license": "MIT",
+        "latest_release": "v1.9.5",
+        "latest_release_at": "2026-10-06T17:39:17Z",
+        "contributors": 1123
+      }
+    }
+  }
+}
