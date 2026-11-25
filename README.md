@@ -105,6 +105,7 @@ The full stack for running AI on your own hardware: models, inference, embedding
 - [LibreChat](https://github.com/LibreChat-AI/LibreChat) - Multi-provider self-hosted ChatGPT-style UI.
 - [LobeHub](https://github.com/lobehub/lobehub) - Chat and agent workspace UI (`⊘ Proprietary`).
 - [Open WebUI](https://github.com/open-webui/open-webui) - Self-hosted chat UI for local and remote models.
+- [Sillage](https://github.com/MarlBurroW/sillage) - Mobile-first web UI that drives the native Claude Code and Codex CLIs running on your own machine.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - Power-user chat frontend for local LLM backends.
 - [Tabby](https://github.com/TabbyML/tabby) - Self-hosted coding assistant with local models.
 - [Text generation web UI](https://github.com/oobabooga/textgen) - Gradio desktop UI for running local LLMs.
